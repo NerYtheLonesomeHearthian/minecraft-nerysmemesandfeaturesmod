@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "platinum_axe",
+    "customModelName": "Normal",
+    "name": "Platinum Axe",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 32,
+    "efficiency": 42.0,
+    "attackSpeed": 2.0,
+    "enchantability": 224,
+    "damageVsEntity": 96.0,
+    "usageCount": 9190,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:PlatinumIngot"
+      }
+    ]
+  }
+}

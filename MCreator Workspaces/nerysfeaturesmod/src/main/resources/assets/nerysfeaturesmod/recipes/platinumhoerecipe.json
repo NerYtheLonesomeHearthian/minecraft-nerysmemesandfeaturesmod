@@ -1,0 +1,27 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:platinum_ingot"
+    },
+    "1": {
+      "item": "nerysfeaturesmod:platinum_ingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:platinum_hoe",
+    "count": 1
+  }
+}

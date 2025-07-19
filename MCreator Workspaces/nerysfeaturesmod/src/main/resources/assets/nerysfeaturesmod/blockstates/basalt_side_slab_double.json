@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "nerysfeaturesmod:basalt_side_slab_double"
+    }
+  }
+}

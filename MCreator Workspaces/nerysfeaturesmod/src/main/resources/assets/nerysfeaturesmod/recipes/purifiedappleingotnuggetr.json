@@ -1,0 +1,42 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:purified_apple_nugget"
+    },
+    "1": {
+      "item": "nerysfeaturesmod:purified_apple_nugget"
+    },
+    "2": {
+      "item": "nerysfeaturesmod:purified_apple_nugget"
+    },
+    "3": {
+      "item": "nerysfeaturesmod:purified_apple_nugget"
+    },
+    "4": {
+      "item": "nerysfeaturesmod:purified_apple_nugget"
+    },
+    "5": {
+      "item": "nerysfeaturesmod:purified_apple_nugget"
+    },
+    "6": {
+      "item": "nerysfeaturesmod:purified_apple_nugget"
+    },
+    "7": {
+      "item": "nerysfeaturesmod:purified_apple_nugget"
+    },
+    "8": {
+      "item": "nerysfeaturesmod:purified_apple_nugget"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:purified_apple_ingot",
+    "count": 1
+  }
+}

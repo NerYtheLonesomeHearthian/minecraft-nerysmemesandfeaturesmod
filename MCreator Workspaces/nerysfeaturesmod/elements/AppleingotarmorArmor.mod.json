@@ -1,0 +1,51 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "appleingotarmorhead",
+    "enableBody": true,
+    "textureBody": "appleingotarmorbody",
+    "enableLeggings": true,
+    "textureLeggings": "appleingotarmorleggings",
+    "enableBoots": true,
+    "textureBoots": "appleingotarmorboots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "appleingotarmor",
+    "helmetName": "Apple Helmet",
+    "bodyName": "Apple Chestplate",
+    "leggingsName": "Apple Leggings",
+    "bootsName": "Apple Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 55,
+    "damageValueHelmet": 8,
+    "damageValueBody": 22,
+    "damageValueLeggings": 18,
+    "damageValueBoots": 8,
+    "enchantability": 27,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": "item.armor.equip_elytra"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Appleingot"
+      }
+    ]
+  }
+}

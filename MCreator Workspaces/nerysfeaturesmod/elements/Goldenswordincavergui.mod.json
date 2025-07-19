@@ -1,0 +1,88 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Incave Golden Sword",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Incave Golden Sword",
+          "x": 331,
+          "y": 93
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:Goldenswordt"
+          },
+          "id": 0,
+          "onTakenFromSlot": {
+            "name": "Goldenswordincaverproc"
+          },
+          "name": "Slot #0",
+          "x": 301,
+          "y": 124
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 1,
+          "name": "Slot #1",
+          "x": 517,
+          "y": 124
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Put and",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Put and",
+          "x": 265,
+          "y": 166
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "take back",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "take back",
+          "x": 262,
+          "y": 187
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Sword here",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Sword here",
+          "x": 264,
+          "y": 209
+        }
+      }
+    ]
+  }
+}

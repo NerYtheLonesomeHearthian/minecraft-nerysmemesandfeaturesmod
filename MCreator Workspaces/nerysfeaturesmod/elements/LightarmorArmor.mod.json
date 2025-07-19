@@ -1,0 +1,63 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "lightarmor_head",
+    "enableBody": true,
+    "textureBody": "lightarmor_body",
+    "enableLeggings": true,
+    "textureLeggings": "lightarmor_leggings",
+    "enableBoots": true,
+    "textureBoots": "lightarmor_boots",
+    "onHelmetTick": {
+      "name": "LightarmorArmorHelmetTickEvent"
+    },
+    "onBodyTick": {
+      "name": "LightarmorArmorBodyTickEvent"
+    },
+    "onLeggingsTick": {
+      "name": "LightarmorArmorLeggingsTickEvent"
+    },
+    "onBootsTick": {
+      "name": "LightarmorArmorBootsTickEvent"
+    },
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "lightarmor",
+    "helmetName": "Light Helmet",
+    "bodyName": "Light Chestplate",
+    "leggingsName": "Light Leggings",
+    "bootsName": "Light Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 38,
+    "damageValueHelmet": 3,
+    "damageValueBody": 8,
+    "damageValueLeggings": 6,
+    "damageValueBoots": 3,
+    "enchantability": 23,
+    "toughness": 5.0,
+    "equipSound": {
+      "value": "item.armor.equip_elytra"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Lightitem"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:sakuraplanks"
+    },
+    "1": {
+      "item": "nerysfeaturesmod:sakuraplanks"
+    },
+    "2": {
+      "item": "nerysfeaturesmod:sakuraplanks"
+    },
+    "3": {
+      "item": "nerysfeaturesmod:sakuraplanks"
+    }
+  },
+  "result": {
+    "item": "minecraft:crafting_table",
+    "count": 1
+  }
+}

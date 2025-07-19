@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Netherplanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Netherplanks"
+      },
+      {
+        "value": "CUSTOM:Netherplanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Netherplanks"
+      },
+      {
+        "value": "CUSTOM:Netherplanks"
+      },
+      {
+        "value": "CUSTOM:Netherplanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Netherstairs"
+    },
+    "name": "netherstairsr2",
+    "namespace": "mod"
+  }
+}

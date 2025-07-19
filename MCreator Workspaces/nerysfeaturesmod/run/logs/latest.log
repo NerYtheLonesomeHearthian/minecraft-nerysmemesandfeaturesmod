@@ -1,0 +1,365 @@
+[22:37:37] [main/INFO] [GradleStart]: Extra: []
+[22:37:37] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/NerY/.mcreator/gradle/caches/minecraft/assets, --assetIndex, 1.12, --accessToken{REDACTED}, --version, 1.12.2, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[22:37:37] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:37:37] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:37:37] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[22:37:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:37:37] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2768 for Minecraft 1.12.2 loading
+[22:37:37] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_232, running on Windows 10:amd64:10.0, installed at C:\Program Files\Pylo\MCreator\jdk\jre
+[22:37:37] [main/ERROR] [FML]: Apache Maven library folder was not in the format expected. Using default libraries directory.
+[22:37:37] [main/ERROR] [FML]: Full: C:\Users\NerY\.mcreator\gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.5.3\7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\maven-artifact-3.5.3.jar
+[22:37:37] [main/ERROR] [FML]: Trimmed: c:/users/nery/.mcreator/gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/
+[22:37:37] [main/INFO] [FML]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[22:37:37] [main/INFO] [FML]: Detected deobfuscated environment, loading log configs for colored console logs.
+[22:37:38] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugin
+[22:37:38] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugin
+[22:37:38] [main/INFO] [FML]: Searching C:\Users\NerY\MCreatorWorkspaces\nerysfeaturesmod\run\.\mods for mods
+[22:37:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
+[22:37:38] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
+[22:37:38] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+[22:37:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:37:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:37:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[22:37:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:37:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:37:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:37:38] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[22:37:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:37:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:37:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[22:37:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:37:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:37:38] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[22:37:38] [main/INFO] [net.minecraft.client.Minecraft]: Setting user: Player250
+[22:37:39] [main/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[22:37:39] [main/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_232, BellSoft
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), 
+	Memory: 109210440 bytes (104 MB) / 476577792 bytes (454 MB) up to 3779067904 bytes (3604 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'Intel' Version: '4.6.0 - Build 30.0.100.9805' Renderer: 'Intel(R) UHD Graphics 630'
+[22:37:40] [main/INFO] [FML]: MinecraftForge v14.23.5.2768 Initialized
+[22:37:40] [main/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[22:37:40] [main/INFO] [FML]: Replaced 1036 ore ingredients
+[22:37:40] [main/INFO] [FML]: Searching C:\Users\NerY\MCreatorWorkspaces\nerysfeaturesmod\run\.\mods for mods
+[22:37:40] [main/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
+[22:37:40] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, nerysfeaturesmod] at CLIENT
+[22:37:40] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, nerysfeaturesmod] at SERVER
+[22:37:41] [main/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:NerY's Features Mod
+[22:37:41] [main/INFO] [FML]: Processing ObjectHolder annotations
+[22:37:41] [main/INFO] [FML]: Found 1331 ObjectHolder annotations
+[22:37:41] [main/INFO] [FML]: Identifying ItemStackHolder annotations
+[22:37:41] [main/INFO] [FML]: Found 0 ItemStackHolder annotations
+[22:37:41] [main/INFO] [FML]: Configured a dormant chunk cache size of 0
+[22:37:41] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[22:37:41] [main/INFO] [FML]: OBJLoader: Domain nerysfeaturesmod has been added.
+[22:37:41] [main/INFO] [FML]: Applying holder lookups
+[22:37:41] [main/INFO] [FML]: Holder lookups applied
+[22:37:41] [main/INFO] [FML]: Applying holder lookups
+[22:37:41] [main/INFO] [FML]: Holder lookups applied
+[22:37:41] [main/INFO] [FML]: Applying holder lookups
+[22:37:41] [main/INFO] [FML]: Holder lookups applied
+[22:37:41] [main/INFO] [FML]: Applying holder lookups
+[22:37:41] [main/INFO] [FML]: Holder lookups applied
+[22:37:41] [main/INFO] [FML]: Injecting itemstacks
+[22:37:41] [main/INFO] [FML]: Itemstack injection complete
+[22:37:42] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 33323800 nanos
+[22:37:43] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: OUTDATED Target: 14.23.5.2855
+[22:37:43] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[22:37:43] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[22:37:43] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[22:37:43] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[22:37:43] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[22:37:45] [main/INFO] [FML]: Max texture size: 16384
+[22:37:45] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/thepowerofthesunfinaltexture.png with size 17x17 will have visual artifacts at mip level 2, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
+[22:37:45] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/starpowerinjectioadapter.png with size 14x14 will have visual artifacts at mip level 2, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
+[22:37:45] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/thesunkindabetter.png with size 13x13 will have visual artifacts at mip level 2, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
+[22:37:45] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/blocks/2021-08-09_22.54.05.png with size 398x398 will have visual artifacts at mip level 2, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
+[22:37:45] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/darkcosmosstar.png with size 13x13 will have visual artifacts at mip level 2, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
+[22:37:45] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/thesunkindainitial.png with size 13x13 will have visual artifacts at mip level 2, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
+[22:37:45] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/this-guy-turned-a-nokia-3310-into-a-hammer-hd_md5.png with size 594x594 will have visual artifacts at mip level 2, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
+[22:37:45] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/excalibur.png with size 51x51 will have visual artifacts at mip level 2, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
+[22:37:45] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/this-guy-turned-a-nokia-3310-into-a-hammer-hd_mdncaved.png with size 594x594 will have visual artifacts at mip level 2, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
+[22:37:45] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/appleingotbett3r.png with size 25x25 will have visual artifacts at mip level 2, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
+[22:37:45] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/grill1.png with size 258x258 will have visual artifacts at mip level 2, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
+[22:37:45] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/cosmosstarversionemeglio.png with size 13x13 will have visual artifacts at mip level 2, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
+[22:37:45] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/verydensedarkcosmosstar.png with size 13x13 will have visual artifacts at mip level 2, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
+[22:37:45] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/appleingot.png with size 30x30 will have visual artifacts at mip level 2, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
+[22:37:45] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/this-guy-turned-a-nokia-3310-into-a-hammer-hd_mdn2.png with size 594x594 will have visual artifacts at mip level 2, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
+[22:37:45] [main/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 2048x2048 textures-atlas
+[22:37:46] [main/ERROR] [FML]: Parsing error loading recipe nerysfeaturesmod:sakurawoodslab
+com.google.gson.JsonParseException: Missing data for item 'nerysfeaturesmod:sakura_wood_slab'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:215) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:516) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:409) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:711) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:822) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:668) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1257) [?:1.8.0_232]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:620) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:742) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:581) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_232]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_232]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_232]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_232]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_232]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_232]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_232]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_232]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+[22:37:46] [main/ERROR] [FML]: Parsing error loading recipe nerysfeaturesmod:recipeforthestarcontainer
+com.google.gson.JsonParseException: Missing data for item 'nerysfeaturesmod:beacon_essence_slab'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:263) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:537) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:202) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:474) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:409) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:711) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:822) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:668) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1257) [?:1.8.0_232]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:620) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:742) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:581) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_232]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_232]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_232]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_232]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_232]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_232]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_232]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_232]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+[22:37:46] [main/ERROR] [FML]: Parsing error loading recipe nerysfeaturesmod:recipeforbeaconessenceslab
+com.google.gson.JsonParseException: Missing data for item 'nerysfeaturesmod:beacon_essence_slab'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:215) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:516) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:409) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:711) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:822) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:668) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1257) [?:1.8.0_232]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:620) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:742) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:581) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_232]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_232]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_232]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_232]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_232]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_232]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_232]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_232]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+[22:37:46] [main/ERROR] [FML]: Parsing error loading recipe nerysfeaturesmod:netherslabr
+com.google.gson.JsonParseException: Missing data for item 'nerysfeaturesmod:nether_slab'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:215) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:516) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:409) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:711) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:822) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:668) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1257) [?:1.8.0_232]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:620) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:742) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:581) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_232]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_232]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_232]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_232]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_232]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_232]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_232]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_232]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+[22:37:46] [main/ERROR] [FML]: Parsing error loading recipe nerysfeaturesmod:futurewoodslab
+com.google.gson.JsonParseException: Missing data for item 'nerysfeaturesmod:future_wood_slab'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:215) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:516) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:409) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:711) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:822) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:668) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1257) [?:1.8.0_232]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:620) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:742) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:581) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_232]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_232]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_232]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_232]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_232]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_232]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_232]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_232]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+[22:37:46] [main/ERROR] [FML]: Parsing error loading recipe nerysfeaturesmod:basalttopslabr
+com.google.gson.JsonParseException: Missing data for item 'nerysfeaturesmod:basalt_top_slab'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:215) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:516) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:409) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:711) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:822) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:668) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1257) [?:1.8.0_232]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:620) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:742) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:581) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_232]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_232]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_232]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_232]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_232]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_232]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_232]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_232]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+[22:37:46] [main/ERROR] [FML]: Parsing error loading recipe nerysfeaturesmod:basaltsideslabr
+com.google.gson.JsonParseException: Missing data for item 'nerysfeaturesmod:basalt_side_slab'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:215) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:516) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:409) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:711) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:822) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:668) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1257) [?:1.8.0_232]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:620) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:742) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:581) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_232]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_232]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_232]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_232]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_232]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_232]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_232]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_232]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+[22:37:46] [main/INFO] [FML]: Applying holder lookups
+[22:37:46] [main/INFO] [FML]: Holder lookups applied
+[22:37:46] [main/INFO] [FML]: Injecting itemstacks
+[22:37:46] [main/INFO] [FML]: Itemstack injection complete
+[22:37:46] [main/INFO] [FML]: Forge Mod Loader has successfully loaded 5 mods
+[22:37:46] [main/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[22:37:47] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient]: Could not authorize you against Realms server: Invalid session id
+[22:37:48] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Starting integrated minecraft server version 1.12.2
+[22:37:48] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Generating keypair
+[22:37:48] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:netherslab
+[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:hammerincaver
+[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:netherplanks
+[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:platinumore
+[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:concentratedglass
+[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:darkdiamondoreblock
+[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:goldenstarcanalizer
+[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:sakuralog
+[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:beaconessenceslab
+[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:darkdiamondore
+[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:netherslab_double
+[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:netherfrence
+[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:magentacactus
+[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:beaconessenceslab_double
+[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:futuretreeplanks
+[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:sakura
+[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:voidblock
+[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:incaverblock
+[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:futureblock
+[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:platinumoreblock
+[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:sakuraplanksslab_double
+[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:sakuraplanksslab
+[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:strongestweaponresieder
+[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:test_portal
+[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:sakurasapling
+[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:newtreeleaves
+[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:beaconessencestairs
+[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:futurewoodstairs
+[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:enderpearlblock
+[22:37:48] [Server thread/INFO] [FML]: Applying holder lookups
+[22:37:48] [Server thread/INFO] [FML]: Holder lookups applied
+[22:37:48] [Server thread/INFO] [FML]: Loading dimension 0 (Tests) (net.minecraft.server.integrated.IntegratedServer@6b7b19f)
+[22:37:48] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 493 advancements
+[22:37:48] [Server thread/INFO] [FML]: Loading dimension -1 (Tests) (net.minecraft.server.integrated.IntegratedServer@6b7b19f)
+[22:37:48] [Server thread/INFO] [FML]: Loading dimension 1 (Tests) (net.minecraft.server.integrated.IntegratedServer@6b7b19f)
+[22:37:48] [Server thread/INFO] [FML]: Loading dimension 3 (Tests) (net.minecraft.server.integrated.IntegratedServer@6b7b19f)
+[22:37:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[22:37:49] [Server thread/INFO] [FML]: Unloading dimension -1
+[22:37:49] [Server thread/INFO] [FML]: Unloading dimension 1
+[22:37:49] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Changing view distance to 7, from 10
+[22:37:50] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
+[22:37:50] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[22:37:50] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,nerysfeaturesmod@1.7.0,FML@8.0.99.99,forge@14.23.5.2768,mcp@9.42
+[22:37:50] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
+[22:37:50] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:37:50] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Player250[local:E:bac426cc] logged in with entity id 572 at (265.86767503061003, 99.75178390334713, 242.8298093347188)
+[22:37:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player250 joined the game
+[22:37:51] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[22:37:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Tests'/overworld
+[22:37:51] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 13 advancements
+[22:37:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Tests'/future
+[22:38:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player250: Changing to clear weather]
+[22:38:37] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Changing to clear weather
+[22:42:42] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Saved screenshot as 2021-11-08_22.42.42.png
+[22:42:49] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[22:42:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Tests'/overworld
+[22:42:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Tests'/future
+[22:44:00] [main/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[22:44:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:44:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[22:44:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[22:44:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Tests'/overworld
+[22:44:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Tests'/future
+[22:44:00] [Server thread/INFO] [FML]: Unloading dimension 0
+[22:44:00] [Server thread/INFO] [FML]: Unloading dimension 3
+[22:44:00] [Server thread/INFO] [FML]: Applying holder lookups
+[22:44:00] [Server thread/INFO] [FML]: Holder lookups applied
+[22:44:00] [main/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[22:44:01] [main/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com

@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "purifieapple_shovel",
+    "customModelName": "Normal",
+    "name": "Purified Apple Shovel",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 8,
+    "efficiency": 14.0,
+    "attackSpeed": 1.0,
+    "enchantability": 57,
+    "damageVsEntity": 8.0,
+    "usageCount": 1802,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

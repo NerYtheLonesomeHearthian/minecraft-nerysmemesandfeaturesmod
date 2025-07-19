@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "nerysfeaturesmod:blocks/nether_planks",
+    "top": "nerysfeaturesmod:blocks/nether_planks",
+    "side": "nerysfeaturesmod:blocks/nether_planks"
+  }
+}

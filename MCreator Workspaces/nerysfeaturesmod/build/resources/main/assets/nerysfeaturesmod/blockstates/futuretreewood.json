@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "nerysfeaturesmod:futuretreewood"
+    },
+    "facing=south": {
+      "model": "nerysfeaturesmod:futuretreewood"
+    },
+    "facing=north": {
+      "model": "nerysfeaturesmod:futuretreewood"
+    },
+    "facing=east": {
+      "model": "nerysfeaturesmod:futuretreewood",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "nerysfeaturesmod:futuretreewood",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "nerysfeaturesmod:futuretreewood",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "nerysfeaturesmod:futuretreewood",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

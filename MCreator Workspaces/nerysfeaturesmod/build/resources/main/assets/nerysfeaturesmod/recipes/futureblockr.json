@@ -1,0 +1,42 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:futuretreewood"
+    },
+    "1": {
+      "item": "nerysfeaturesmod:futuretreewood"
+    },
+    "2": {
+      "item": "nerysfeaturesmod:futuretreewood"
+    },
+    "3": {
+      "item": "nerysfeaturesmod:futuretreewood"
+    },
+    "4": {
+      "item": "nerysfeaturesmod:futuretreeleaves"
+    },
+    "5": {
+      "item": "nerysfeaturesmod:futuretreewood"
+    },
+    "6": {
+      "item": "nerysfeaturesmod:futuretreewood"
+    },
+    "7": {
+      "item": "nerysfeaturesmod:futuretreewood"
+    },
+    "8": {
+      "item": "nerysfeaturesmod:futuretreewood"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:future_block",
+    "count": 1
+  }
+}

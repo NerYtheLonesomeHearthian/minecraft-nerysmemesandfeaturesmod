@@ -1,0 +1,42 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:dark_matter"
+    },
+    "1": {
+      "item": "nerysfeaturesmod:dark_matter"
+    },
+    "2": {
+      "item": "nerysfeaturesmod:dark_matter"
+    },
+    "3": {
+      "item": "nerysfeaturesmod:dark_matter"
+    },
+    "4": {
+      "item": "nerysfeaturesmod:dark_matter"
+    },
+    "5": {
+      "item": "nerysfeaturesmod:dark_matter"
+    },
+    "6": {
+      "item": "nerysfeaturesmod:dark_matter"
+    },
+    "7": {
+      "item": "nerysfeaturesmod:dark_matter"
+    },
+    "8": {
+      "item": "nerysfeaturesmod:dark_matter"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:dark",
+    "count": 1
+  }
+}

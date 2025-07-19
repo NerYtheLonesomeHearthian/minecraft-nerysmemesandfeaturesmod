@@ -1,0 +1,16 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:purified_apple_ingot"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:purified_apple_nugget",
+    "count": 9
+  }
+}

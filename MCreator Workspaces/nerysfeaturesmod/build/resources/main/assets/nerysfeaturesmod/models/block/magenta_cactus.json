@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "nerysfeaturesmod:blocks/magentacactus",
+    "particle": "nerysfeaturesmod:blocks/magentacactus"
+  }
+}

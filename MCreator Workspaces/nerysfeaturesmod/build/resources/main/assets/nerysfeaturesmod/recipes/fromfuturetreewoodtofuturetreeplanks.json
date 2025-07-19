@@ -1,0 +1,13 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "nerysfeaturesmod:futuretreewood"
+    }
+  ],
+  "result": {
+    "item": "nerysfeaturesmod:future_tree_planks",
+    "count": 4
+  }
+}

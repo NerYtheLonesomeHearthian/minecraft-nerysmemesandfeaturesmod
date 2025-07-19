@@ -1,0 +1,30 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "this-guy-turned-a-nokia-3310-into-a-hammer-hd_mdn2",
+    "customModelName": "Normal",
+    "name": "Hammer",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Special",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 0.47,
+    "enchantability": 5,
+    "damageVsEntity": 21.0,
+    "usageCount": 548,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Grill"
+      },
+      {
+        "value": "CUSTOM:Hammer"
+      }
+    ]
+  }
+}

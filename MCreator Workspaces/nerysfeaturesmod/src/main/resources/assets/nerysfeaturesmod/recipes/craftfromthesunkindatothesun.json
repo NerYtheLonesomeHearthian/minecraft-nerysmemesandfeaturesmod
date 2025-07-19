@@ -1,0 +1,42 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:cosmos_star"
+    },
+    "1": {
+      "item": "minecraft:glowstone"
+    },
+    "2": {
+      "item": "nerysfeaturesmod:cosmos_star"
+    },
+    "3": {
+      "item": "minecraft:glowstone"
+    },
+    "4": {
+      "item": "nerysfeaturesmod:the_sun_false"
+    },
+    "5": {
+      "item": "minecraft:glowstone"
+    },
+    "6": {
+      "item": "nerysfeaturesmod:cosmos_star"
+    },
+    "7": {
+      "item": "minecraft:glowstone"
+    },
+    "8": {
+      "item": "nerysfeaturesmod:cosmos_star"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:the_sun",
+    "count": 1
+  }
+}

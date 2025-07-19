@@ -1,0 +1,30 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "nerysfeaturesmod:light_item"
+    },
+    "3": {
+      "item": "nerysfeaturesmod:light_item"
+    },
+    "4": {
+      "item": "nerysfeaturesmod:light_ingot"
+    },
+    "5": {
+      "item": "nerysfeaturesmod:light_item"
+    },
+    "7": {
+      "item": "nerysfeaturesmod:light_item"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:invisibility",
+    "count": 1
+  }
+}

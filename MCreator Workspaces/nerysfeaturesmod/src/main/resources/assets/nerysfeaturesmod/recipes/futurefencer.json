@@ -1,0 +1,28 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "nerysfeaturesmod:future_tree_planks"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "nerysfeaturesmod:future_tree_planks"
+    },
+    {
+      "item": "nerysfeaturesmod:future_tree_planks"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "nerysfeaturesmod:future_tree_planks"
+    }
+  ],
+  "result": {
+    "item": "nerysfeaturesmod:future_fence",
+    "count": 3
+  }
+}

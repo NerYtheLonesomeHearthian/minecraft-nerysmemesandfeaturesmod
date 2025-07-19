@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nerysfeaturesmod:blocks/blackstone_top",
+    "up": "nerysfeaturesmod:blocks/blackstone_top",
+    "north": "nerysfeaturesmod:blocks/blackstone",
+    "east": "nerysfeaturesmod:blocks/blackstone",
+    "south": "nerysfeaturesmod:blocks/blackstone",
+    "west": "nerysfeaturesmod:blocks/blackstone",
+    "particle": "nerysfeaturesmod:blocks/blackstone_top"
+  }
+}

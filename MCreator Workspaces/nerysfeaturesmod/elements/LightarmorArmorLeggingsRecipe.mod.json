@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Lightingot"
+      },
+      {
+        "value": "CUSTOM:Lightingot"
+      },
+      {
+        "value": "CUSTOM:Lightingot"
+      },
+      {
+        "value": "CUSTOM:Lightingot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Lightingot"
+      },
+      {
+        "value": "CUSTOM:Lightingot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Lightingot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LightarmorArmor.legs"
+    },
+    "name": "lightarmorarmorleggingsrecipe",
+    "namespace": "mod"
+  }
+}

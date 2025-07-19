@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "power_sword",
+    "customModelName": "Normal",
+    "name": "Power Sword",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 57,
+    "efficiency": 132.0,
+    "attackSpeed": 0.01,
+    "enchantability": 94,
+    "damageVsEntity": 4000.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Sunpowercondensation"
+      }
+    ]
+  }
+}

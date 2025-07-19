@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Harderobsidian"
+      },
+      {
+        "value": "CUSTOM:Harderobsidian"
+      },
+      {
+        "value": "CUSTOM:Harderobsidian"
+      },
+      {
+        "value": "CUSTOM:Harderobsidian"
+      },
+      {
+        "value": "CUSTOM:Sunpowercondensation"
+      },
+      {
+        "value": "CUSTOM:Harderobsidian"
+      },
+      {
+        "value": "CUSTOM:Harderobsidian"
+      },
+      {
+        "value": "CUSTOM:Harderobsidian"
+      },
+      {
+        "value": "CUSTOM:Harderobsidian"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Nokia3310"
+    },
+    "name": "nokia3310r",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_fv": 6,
+  "_type": "biome",
+  "definition": {
+    "name": "Magmatic Wastes",
+    "groundBlock": {
+      "value": "CUSTOM:Lichenblackstone"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:Blackstone"
+    },
+    "generateLakes": false,
+    "treeType": 1,
+    "vanillaTreeType": "Mega spruce trees",
+    "minHeight": 15,
+    "spawnVines": false,
+    "treeVines": {
+      "value": "Blocks.AIR"
+    },
+    "treeStem": {
+      "value": "CUSTOM:Netherstem"
+    },
+    "treeBranch": {
+      "value": "CUSTOM:Netherleaves"
+    },
+    "treeFruits": {
+      "value": "Blocks.AIR"
+    },
+    "customColors": false,
+    "airColor": {
+      "value": -5916161,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -13261999,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -14329397,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 3,
+    "grassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 0.0,
+    "temperature": 1.6300000000000001,
+    "baseHeight": 1.0,
+    "heightVariation": 0.5,
+    "spawnBiome": false,
+    "biomeWeight": 5,
+    "biomeType": "DESERT",
+    "biomeCategory": "NETHER",
+    "parent": {
+      "value": "swamp"
+    },
+    "biomeDictionaryTypes": [
+      "MAGICAL",
+      "RARE"
+    ],
+    "spawnList": [
+      {
+        "value": "EntityBlaze"
+      },
+      {
+        "value": "EntityWitherSkeleton"
+      },
+      {
+        "value": "EntityBat"
+      },
+      {
+        "value": "EntityMagmaCube"
+      }
+    ]
+  }
+}

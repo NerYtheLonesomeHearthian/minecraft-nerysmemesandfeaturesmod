@@ -1,0 +1,42 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:purified_apple_fragment"
+    },
+    "1": {
+      "item": "nerysfeaturesmod:purified_apple_fragment"
+    },
+    "2": {
+      "item": "nerysfeaturesmod:purified_apple_fragment"
+    },
+    "3": {
+      "item": "nerysfeaturesmod:purified_apple_fragment"
+    },
+    "4": {
+      "item": "nerysfeaturesmod:purified_apple_fragment"
+    },
+    "5": {
+      "item": "nerysfeaturesmod:purified_apple_fragment"
+    },
+    "6": {
+      "item": "nerysfeaturesmod:purified_apple_fragment"
+    },
+    "7": {
+      "item": "nerysfeaturesmod:purified_apple_fragment"
+    },
+    "8": {
+      "item": "nerysfeaturesmod:purified_apple_fragment"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:purified_apple_nugget",
+    "count": 1
+  }
+}

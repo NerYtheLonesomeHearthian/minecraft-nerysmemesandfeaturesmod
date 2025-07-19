@@ -1,0 +1,13 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "nerysfeaturesmod:sakurawood"
+    }
+  ],
+  "result": {
+    "item": "nerysfeaturesmod:sakuraplanks",
+    "count": 4
+  }
+}

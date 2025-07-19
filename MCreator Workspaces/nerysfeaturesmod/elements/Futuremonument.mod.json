@@ -1,0 +1,33 @@
+{
+  "_fv": 6,
+  "_type": "structure",
+  "definition": {
+    "structure": "future_monument",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 5000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnWorldTypes": [
+      "CUSTOM:Test"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "Blocks.GRASS"
+      },
+      {
+        "value": "CUSTOM:Lichenblackstone"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Nether1"
+      },
+      {
+        "value": "CUSTOM:Future"
+      }
+    ]
+  }
+}

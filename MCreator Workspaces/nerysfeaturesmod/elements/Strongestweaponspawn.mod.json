@@ -1,0 +1,22 @@
+{
+  "_fv": 6,
+  "_type": "structure",
+  "definition": {
+    "structure": "strongestweapon",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 1000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 1,
+    "spawnWorldTypes": [
+      "Surface",
+      "End",
+      "CUSTOM:Test",
+      "Nether"
+    ],
+    "restrictionBlocks": [],
+    "restrictionBiomes": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nerysfeaturesmod:blocks/futuretreeplaks",
+    "up": "nerysfeaturesmod:blocks/futuretreeplaks",
+    "north": "nerysfeaturesmod:blocks/futuretreeplaks",
+    "east": "nerysfeaturesmod:blocks/futuretreeplaks",
+    "south": "nerysfeaturesmod:blocks/futuretreeplaks",
+    "west": "nerysfeaturesmod:blocks/futuretreeplaks",
+    "particle": "nerysfeaturesmod:blocks/futuretreeplaks"
+  }
+}

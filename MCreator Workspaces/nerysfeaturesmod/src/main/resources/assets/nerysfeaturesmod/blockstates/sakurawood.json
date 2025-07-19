@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "nerysfeaturesmod:sakurawood"
+    },
+    "facing=south": {
+      "model": "nerysfeaturesmod:sakurawood"
+    },
+    "facing=north": {
+      "model": "nerysfeaturesmod:sakurawood"
+    },
+    "facing=east": {
+      "model": "nerysfeaturesmod:sakurawood",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "nerysfeaturesmod:sakurawood",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "nerysfeaturesmod:sakurawood",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "nerysfeaturesmod:sakurawood",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

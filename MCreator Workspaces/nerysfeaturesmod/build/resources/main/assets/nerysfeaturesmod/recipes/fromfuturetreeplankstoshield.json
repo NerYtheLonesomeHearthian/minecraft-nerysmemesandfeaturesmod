@@ -1,0 +1,36 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:future_tree_planks"
+    },
+    "1": {
+      "item": "minecraft:iron_ingot"
+    },
+    "2": {
+      "item": "nerysfeaturesmod:future_tree_planks"
+    },
+    "3": {
+      "item": "nerysfeaturesmod:future_tree_planks"
+    },
+    "4": {
+      "item": "nerysfeaturesmod:future_tree_planks"
+    },
+    "5": {
+      "item": "nerysfeaturesmod:future_tree_planks"
+    },
+    "7": {
+      "item": "nerysfeaturesmod:future_tree_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:shield",
+    "count": 1
+  }
+}

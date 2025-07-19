@@ -1,0 +1,63 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "helmet",
+    "enableBody": true,
+    "textureBody": "chest",
+    "enableLeggings": true,
+    "textureLeggings": "legs",
+    "enableBoots": true,
+    "textureBoots": "boots",
+    "onHelmetTick": {
+      "name": "PurifiedappleArmorHelmetTickEvent"
+    },
+    "onBodyTick": {
+      "name": "PurifiedappleArmorBodyTickEvent"
+    },
+    "onLeggingsTick": {
+      "name": "PurifiedappleArmorLeggingsTickEvent"
+    },
+    "onBootsTick": {
+      "name": "PurifiedappleArmorBootsTickEvent"
+    },
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "purified_apple",
+    "helmetName": "Purified Apple Helmet",
+    "bodyName": "Purified Apple Chestplate",
+    "leggingsName": "Purified Apple Leggings",
+    "bootsName": "Purified Apple Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 69,
+    "damageValueHelmet": 9,
+    "damageValueBody": 23,
+    "damageValueLeggings": 27,
+    "damageValueBoots": 9,
+    "enchantability": 42,
+    "toughness": 2.5,
+    "equipSound": {
+      "value": "item.armor.equip_elytra"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Purifiedappleingot"
+      }
+    ]
+  }
+}

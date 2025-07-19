@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "nerysfeaturesmod:nether_stem"
+    },
+    "facing=south": {
+      "model": "nerysfeaturesmod:nether_stem"
+    },
+    "facing=north": {
+      "model": "nerysfeaturesmod:nether_stem"
+    },
+    "facing=east": {
+      "model": "nerysfeaturesmod:nether_stem",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "nerysfeaturesmod:nether_stem",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "nerysfeaturesmod:nether_stem",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "nerysfeaturesmod:nether_stem",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

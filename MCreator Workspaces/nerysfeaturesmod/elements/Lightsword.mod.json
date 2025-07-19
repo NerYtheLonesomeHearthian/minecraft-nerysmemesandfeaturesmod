@@ -1,0 +1,30 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "lightsword",
+    "customModelName": "Normal",
+    "name": "Light Sword - Visible",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 2.3,
+    "enchantability": 5,
+    "damageVsEntity": 8.3,
+    "usageCount": 2880,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Lightingot"
+      },
+      {
+        "value": "CUSTOM:Lightsword"
+      }
+    ]
+  }
+}

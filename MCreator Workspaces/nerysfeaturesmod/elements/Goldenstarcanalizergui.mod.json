@@ -1,0 +1,62 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Canalize Star Cluster in ",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Canalize Star Cluster in ",
+          "x": 300,
+          "y": 81
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Incaved Golden Sword",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Incaved Golden Sword",
+          "x": 319,
+          "y": 105
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:Incavedgoldsword"
+          },
+          "id": 0,
+          "onTakenFromSlot": {
+            "name": "Procedureforgoldenstarcanalizergui"
+          },
+          "name": "Slot #0",
+          "x": 301,
+          "y": 154
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 1,
+          "name": "Slot #1",
+          "x": 517,
+          "y": 153
+        }
+      }
+    ]
+  }
+}

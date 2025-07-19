@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "nerysfeaturesmod:blocks/limecactus",
+    "particle": "nerysfeaturesmod:blocks/limecactus"
+  }
+}

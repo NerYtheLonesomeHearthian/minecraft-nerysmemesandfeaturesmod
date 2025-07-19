@@ -1,0 +1,8 @@
+{
+  "parent": "block/half_slab",
+  "textures": {
+    "bottom": "nerysfeaturesmod:blocks/basalt_top",
+    "top": "nerysfeaturesmod:blocks/basalt_top",
+    "side": "nerysfeaturesmod:blocks/basalt_top"
+  }
+}

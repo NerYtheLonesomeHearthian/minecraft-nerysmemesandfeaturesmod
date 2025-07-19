@@ -1,0 +1,33 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 45",
+    "678"
+  ],
+  "key": {
+    "2": {
+      "item": "nerysfeaturesmod:future_tree_planks"
+    },
+    "4": {
+      "item": "nerysfeaturesmod:future_tree_planks"
+    },
+    "5": {
+      "item": "nerysfeaturesmod:future_tree_planks"
+    },
+    "6": {
+      "item": "nerysfeaturesmod:future_tree_planks"
+    },
+    "7": {
+      "item": "nerysfeaturesmod:future_tree_planks"
+    },
+    "8": {
+      "item": "nerysfeaturesmod:future_tree_planks"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:future_wood_stairs",
+    "count": 4
+  }
+}

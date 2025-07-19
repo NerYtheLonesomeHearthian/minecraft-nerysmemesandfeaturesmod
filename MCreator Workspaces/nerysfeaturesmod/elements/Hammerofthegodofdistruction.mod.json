@@ -1,0 +1,30 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "this-guy-turned-a-nokia-3310-into-a-hammer-hd_md5",
+    "customModelName": "Normal",
+    "name": "Hammer of the God of Destruction, forged melting Dark and Light with the Supreme Star Power",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Special",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 0.3,
+    "enchantability": 18,
+    "damageVsEntity": 555558.5,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Hammer"
+      }
+    ],
+    "onRightClickedInAir": {
+      "name": "SunpowerclusterRightClickedInAir"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "nerysfeaturesmod:powerswordobtained": {
+    "criteria": {
+      "powerswordobtained": "2021-08-03 18:02:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2021-08-03 18:02:03 +0200"
+    },
+    "done": true
+  },
+  "nerysfeaturesmod:darkdiamonds": {
+    "criteria": {
+      "darkdiamonds": "2021-08-03 18:02:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2021-08-03 14:00:25 +0200"
+    },
+    "done": true
+  },
+  "nerysfeaturesmod:excalibura": {
+    "criteria": {
+      "excalibura": "2021-08-03 18:02:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2021-08-03 13:57:49 +0200",
+      "plains": "2021-09-14 14:08:35 +0200"
+    },
+    "done": false
+  }
+}

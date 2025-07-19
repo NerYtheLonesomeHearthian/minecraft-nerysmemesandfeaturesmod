@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "this-guy-turned-a-nokia-3310-into-a-hammer-hd_mdncaved",
+    "customModelName": "Normal",
+    "name": "Incaved Hammer",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Special",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 0.7,
+    "enchantability": 5,
+    "damageVsEntity": 9.0,
+    "usageCount": 294,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.STICK"
+      }
+    ]
+  }
+}

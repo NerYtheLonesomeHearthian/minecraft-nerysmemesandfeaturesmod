@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SakuraPlanks"
+      },
+      {
+        "value": "CUSTOM:SakuraPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SakuraPlanks"
+      },
+      {
+        "value": "CUSTOM:SakuraPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.CRAFTING_TABLE"
+    },
+    "name": "fromsakuraplankstocraftingtable",
+    "namespace": "mod"
+  }
+}

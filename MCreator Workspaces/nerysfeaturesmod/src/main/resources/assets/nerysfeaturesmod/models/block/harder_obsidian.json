@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nerysfeaturesmod:blocks/harderobsidian",
+    "up": "nerysfeaturesmod:blocks/harderobsidian",
+    "north": "nerysfeaturesmod:blocks/harderobsidian",
+    "east": "nerysfeaturesmod:blocks/harderobsidian",
+    "south": "nerysfeaturesmod:blocks/harderobsidian",
+    "west": "nerysfeaturesmod:blocks/harderobsidian",
+    "particle": "nerysfeaturesmod:blocks/harderobsidian"
+  }
+}

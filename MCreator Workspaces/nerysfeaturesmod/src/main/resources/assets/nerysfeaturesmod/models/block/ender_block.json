@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nerysfeaturesmod:blocks/enderpearlblock",
+    "up": "nerysfeaturesmod:blocks/enderpearlblock",
+    "north": "nerysfeaturesmod:blocks/enderpearlblock",
+    "east": "nerysfeaturesmod:blocks/enderpearlblock",
+    "south": "nerysfeaturesmod:blocks/enderpearlblock",
+    "west": "nerysfeaturesmod:blocks/enderpearlblock",
+    "particle": "nerysfeaturesmod:blocks/enderpearlblock"
+  }
+}

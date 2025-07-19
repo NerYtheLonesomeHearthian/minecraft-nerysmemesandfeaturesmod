@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "nerysfeaturesmod:blocks/beacon",
+    "particle": "nerysfeaturesmod:blocks/beacon"
+  }
+}

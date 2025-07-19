@@ -1,0 +1,30 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:sakuraplanks"
+    },
+    "1": {
+      "item": "nerysfeaturesmod:sakuraplanks"
+    },
+    "2": {
+      "item": "nerysfeaturesmod:sakuraplanks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:wooden_pickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:red_cactus"
+    }
+  },
+  "result": {
+    "item": "minecraft:dye",
+    "data": 1,
+    "count": 1
+  }
+}

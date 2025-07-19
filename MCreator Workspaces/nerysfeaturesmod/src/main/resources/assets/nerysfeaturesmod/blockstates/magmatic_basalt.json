@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "nerysfeaturesmod:magmatic_basalt"
+    },
+    "facing=south": {
+      "model": "nerysfeaturesmod:magmatic_basalt"
+    },
+    "facing=north": {
+      "model": "nerysfeaturesmod:magmatic_basalt"
+    },
+    "facing=east": {
+      "model": "nerysfeaturesmod:magmatic_basalt",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "nerysfeaturesmod:magmatic_basalt",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "nerysfeaturesmod:magmatic_basalt",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "nerysfeaturesmod:magmatic_basalt",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

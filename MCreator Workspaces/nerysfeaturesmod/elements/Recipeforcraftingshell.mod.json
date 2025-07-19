@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Platinumnugget"
+      },
+      {
+        "value": "CUSTOM:Appleingot"
+      },
+      {
+        "value": "CUSTOM:Platinumnugget"
+      },
+      {
+        "value": "Blocks.CRAFTING_TABLE"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.CRAFTING_TABLE"
+      },
+      {
+        "value": "Blocks.CRAFTING_TABLE"
+      },
+      {
+        "value": "Blocks.CRAFTING_TABLE"
+      },
+      {
+        "value": "Blocks.CRAFTING_TABLE"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CraftingShell"
+    },
+    "name": "recipeforcraftingshell",
+    "namespace": "mod"
+  }
+}

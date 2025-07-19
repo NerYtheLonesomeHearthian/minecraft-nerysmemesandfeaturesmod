@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "nerysfeaturesmod:nether_slab_double"
+    }
+  }
+}

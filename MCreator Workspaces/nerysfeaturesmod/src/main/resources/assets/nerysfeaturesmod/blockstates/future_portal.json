@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "nerysfeaturesmod:future_portal_ew"
+    },
+    "axis=x": {
+      "model": "nerysfeaturesmod:future_portal_ns"
+    },
+    "inventory": {
+      "model": "nerysfeaturesmod:future_portal_ns"
+    }
+  }
+}

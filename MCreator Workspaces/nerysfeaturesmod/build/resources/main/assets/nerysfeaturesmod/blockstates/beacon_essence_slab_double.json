@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "nerysfeaturesmod:beacon_essence_slab_double"
+    }
+  }
+}

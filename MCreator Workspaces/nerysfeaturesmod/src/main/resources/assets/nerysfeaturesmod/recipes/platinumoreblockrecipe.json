@@ -1,0 +1,42 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:platinum_ingot"
+    },
+    "1": {
+      "item": "nerysfeaturesmod:platinum_ingot"
+    },
+    "2": {
+      "item": "nerysfeaturesmod:platinum_ingot"
+    },
+    "3": {
+      "item": "nerysfeaturesmod:platinum_ingot"
+    },
+    "4": {
+      "item": "nerysfeaturesmod:platinum_ingot"
+    },
+    "5": {
+      "item": "nerysfeaturesmod:platinum_ingot"
+    },
+    "6": {
+      "item": "nerysfeaturesmod:platinum_ingot"
+    },
+    "7": {
+      "item": "nerysfeaturesmod:platinum_ingot"
+    },
+    "8": {
+      "item": "nerysfeaturesmod:platinum_ingot"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:platinum_block",
+    "count": 1
+  }
+}

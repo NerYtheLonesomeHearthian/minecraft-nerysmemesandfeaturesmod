@@ -1,0 +1,97 @@
+{
+  "_fv": 6,
+  "_type": "biome",
+  "definition": {
+    "name": "The Future",
+    "groundBlock": {
+      "value": "Blocks.GRASS"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.DIRT#0"
+    },
+    "generateLakes": true,
+    "treeType": 1,
+    "vanillaTreeType": "Default",
+    "minHeight": 8,
+    "spawnVines": false,
+    "treeVines": {
+      "value": "Blocks.VINE"
+    },
+    "treeStem": {
+      "value": "CUSTOM:Futuretreewood"
+    },
+    "treeBranch": {
+      "value": "CUSTOM:Newtreeleaves"
+    },
+    "treeFruits": {
+      "value": "Blocks.COCOA"
+    },
+    "customColors": true,
+    "airColor": {
+      "value": -16711733,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -10066177,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -52429,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 3,
+    "grassPerChunk": 2,
+    "flowersPerChunk": 3,
+    "mushroomsPerChunk": 5,
+    "bigMushroomsChunk": 2,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 1,
+    "cactiPerChunk": 3,
+    "deadBushesPerChunk": 1,
+    "rainingPossibility": 0.1,
+    "temperature": 0.5,
+    "baseHeight": 0.1,
+    "heightVariation": 2.0,
+    "spawnBiome": true,
+    "biomeWeight": 1,
+    "biomeType": "WARM",
+    "biomeCategory": "TAIGA",
+    "parent": {
+      "value": "plains"
+    },
+    "biomeDictionaryTypes": [
+      "MESA",
+      "PLAINS",
+      "MAGICAL",
+      "MUSHROOM",
+      "SWAMP"
+    ],
+    "spawnList": [
+      {
+        "value": "EntityCow"
+      },
+      {
+        "value": "EntityEnderman"
+      },
+      {
+        "value": "EntityHorse"
+      },
+      {
+        "value": "EntityOcelot"
+      },
+      {
+        "value": "EntityPig"
+      },
+      {
+        "value": "EntityParrot"
+      },
+      {
+        "value": "EntitySheep"
+      },
+      {
+        "value": "EntityIllusionIllager"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "darkcosmosstar",
+    "customModelName": "Normal",
+    "name": "Dark Cosmos Star - Step 4",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "stackSize": 8,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 8.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "You've put some Dark Matter onto the Cosmos Star. Look at what you've done. You can now proceed crafting The Power Of The Sun"
+    ],
+    "hasGlow": true
+  }
+}

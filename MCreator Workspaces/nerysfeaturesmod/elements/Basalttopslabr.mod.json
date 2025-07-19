@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 8,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Basalt"
+      },
+      {
+        "value": "CUSTOM:Basalt"
+      },
+      {
+        "value": "CUSTOM:Basalt"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Netherstem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Basalttopslab"
+    },
+    "name": "basalttopslabr",
+    "namespace": "mod"
+  }
+}

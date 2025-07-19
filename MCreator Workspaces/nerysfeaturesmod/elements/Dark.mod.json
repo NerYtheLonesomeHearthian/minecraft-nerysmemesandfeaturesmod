@@ -1,0 +1,51 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "darkhead",
+    "enableBody": true,
+    "textureBody": "darkbody",
+    "enableLeggings": true,
+    "textureLeggings": "darkleggins",
+    "enableBoots": true,
+    "textureBoots": "darkboots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "h",
+    "helmetName": "dark Helmet",
+    "bodyName": "dark Body",
+    "leggingsName": "dark Leggings",
+    "bootsName": "dark Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 25,
+    "damageValueHelmet": 8,
+    "damageValueBody": 13,
+    "damageValueLeggings": 11,
+    "damageValueBoots": 8,
+    "enchantability": 19,
+    "toughness": 2.2,
+    "equipSound": {
+      "value": "item.armor.equip_elytra"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Voidblock"
+      }
+    ]
+  }
+}

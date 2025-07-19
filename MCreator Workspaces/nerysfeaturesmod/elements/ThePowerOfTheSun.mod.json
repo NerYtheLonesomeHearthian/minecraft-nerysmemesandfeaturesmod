@@ -1,0 +1,35 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "thepowerofthesunfinaltexture",
+    "customModelName": "Normal",
+    "name": "The Power Of The Sun",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Special",
+    "harvestLevel": 55555,
+    "efficiency": 0.0,
+    "attackSpeed": 0.5,
+    "enchantability": 0,
+    "damageVsEntity": 333.0,
+    "usageCount": 99999,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "onRightClickedInAir": {
+      "name": "ThePowerOfTheSunRightClickedInAir"
+    },
+    "onRightClickedOnBlock": {
+      "name": "ThePowerOfTheSunRightClickedOnBlock"
+    },
+    "onEntityHitWith": {
+      "name": "ThePowerOfTheSunMobIsHitWithTool"
+    },
+    "onItemInUseTick": {
+      "name": "ThePowerOfTheSunToolInHandTick"
+    }
+  }
+}

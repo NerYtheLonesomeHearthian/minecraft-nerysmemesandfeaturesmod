@@ -1,0 +1,32 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:nether_planks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "nerysfeaturesmod:nether_planks"
+    },
+    "3": {
+      "item": "nerysfeaturesmod:nether_planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "nerysfeaturesmod:nether_planks"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:nether_fence",
+    "count": 3
+  }
+}

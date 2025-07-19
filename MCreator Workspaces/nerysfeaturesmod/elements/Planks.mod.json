@@ -1,0 +1,19 @@
+{
+  "_fv": 6,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Futuretreeplanks"
+      },
+      {
+        "value": "CUSTOM:SakuraPlanks"
+      }
+    ],
+    "functions": [],
+    "name": "planks",
+    "namespace": "minecraft"
+  }
+}

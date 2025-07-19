@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nerysfeaturesmod:blocks/redstone_block",
+    "up": "nerysfeaturesmod:blocks/diamond_block",
+    "north": "nerysfeaturesmod:blocks/gold_block",
+    "east": "nerysfeaturesmod:blocks/iron_block",
+    "south": "nerysfeaturesmod:blocks/lapis_block",
+    "west": "nerysfeaturesmod:blocks/netherite_block",
+    "particle": "nerysfeaturesmod:blocks/redstone_block"
+  }
+}

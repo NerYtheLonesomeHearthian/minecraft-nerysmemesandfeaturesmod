@@ -1,0 +1,22 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:basalt"
+    },
+    "1": {
+      "item": "nerysfeaturesmod:basalt"
+    },
+    "2": {
+      "item": "nerysfeaturesmod:basalt"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:basalt_side_slab",
+    "count": 6
+  }
+}

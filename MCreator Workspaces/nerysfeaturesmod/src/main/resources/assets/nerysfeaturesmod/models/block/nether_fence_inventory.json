@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "nerysfeaturesmod:blocks/nether_planks",
+    "particle": "nerysfeaturesmod:blocks/nether_planks"
+  }
+}

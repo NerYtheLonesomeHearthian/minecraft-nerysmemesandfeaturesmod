@@ -1,0 +1,26 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "starscontainerwiththesuninit",
+    "customModelName": "Normal",
+    "name": "Star Container with The Sun inside it - Final Step",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 0.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "You put The Sun inside a Stars Container. Do you have the slightest idea how much power you're holding with your bare hands?"
+    ],
+    "hasGlow": false
+  }
+}

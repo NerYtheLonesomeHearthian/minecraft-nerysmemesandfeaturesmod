@@ -1,0 +1,42 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:beacon"
+    },
+    "1": {
+      "item": "minecraft:beacon"
+    },
+    "2": {
+      "item": "minecraft:beacon"
+    },
+    "3": {
+      "item": "minecraft:beacon"
+    },
+    "4": {
+      "item": "minecraft:beacon"
+    },
+    "5": {
+      "item": "minecraft:beacon"
+    },
+    "6": {
+      "item": "minecraft:beacon"
+    },
+    "7": {
+      "item": "minecraft:beacon"
+    },
+    "8": {
+      "item": "minecraft:beacon"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:beacon_essence",
+    "count": 1
+  }
+}

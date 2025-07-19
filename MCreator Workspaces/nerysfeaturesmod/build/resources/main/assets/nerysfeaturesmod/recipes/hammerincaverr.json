@@ -1,0 +1,42 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:dark_matter"
+    },
+    "1": {
+      "item": "nerysfeaturesmod:platinum_nugget"
+    },
+    "2": {
+      "item": "nerysfeaturesmod:the_almost_power"
+    },
+    "3": {
+      "item": "minecraft:dropper"
+    },
+    "4": {
+      "item": "minecraft:furnace"
+    },
+    "5": {
+      "item": "minecraft:dispenser"
+    },
+    "6": {
+      "item": "nerysfeaturesmod:the_almost_power"
+    },
+    "7": {
+      "item": "minecraft:dragon_breath"
+    },
+    "8": {
+      "item": "nerysfeaturesmod:dark_matter"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:hammer_incaver",
+    "count": 1
+  }
+}

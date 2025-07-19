@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nerysfeaturesmod:blocks/obsidian",
+    "up": "nerysfeaturesmod:blocks/obsidian",
+    "north": "nerysfeaturesmod:blocks/obsidian",
+    "east": "nerysfeaturesmod:blocks/obsidian",
+    "south": "nerysfeaturesmod:blocks/obsidian",
+    "west": "nerysfeaturesmod:blocks/obsidian",
+    "particle": "nerysfeaturesmod:blocks/obsidian"
+  }
+}

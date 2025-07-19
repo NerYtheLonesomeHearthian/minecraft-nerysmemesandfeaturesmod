@@ -1,0 +1,42 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:dark_diamond"
+    },
+    "1": {
+      "item": "nerysfeaturesmod:dark_diamond"
+    },
+    "2": {
+      "item": "nerysfeaturesmod:dark_diamond"
+    },
+    "3": {
+      "item": "nerysfeaturesmod:dark_diamond"
+    },
+    "4": {
+      "item": "nerysfeaturesmod:dark_diamond"
+    },
+    "5": {
+      "item": "nerysfeaturesmod:dark_diamond"
+    },
+    "6": {
+      "item": "nerysfeaturesmod:dark_diamond"
+    },
+    "7": {
+      "item": "nerysfeaturesmod:dark_diamond"
+    },
+    "8": {
+      "item": "nerysfeaturesmod:dark_diamond"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:dark_diamond_block",
+    "count": 1
+  }
+}

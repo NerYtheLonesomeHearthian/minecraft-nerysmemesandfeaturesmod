@@ -1,0 +1,550 @@
+Unsupposrted library path: C:\Users\NerY\MCreatorWorkspaces\nerysfeaturesmod\build\classes\java\api
+Unsupposrted library path: C:\Users\NerY\MCreatorWorkspaces\nerysfeaturesmod\build\resources\api
+Symbol range map extraction starting
+Processing 182 files
+startProcessing "nerysfeaturesmod/ClientProxyNerYsFeaturesMod.java" md5: 5341699cc00dd08587dd03a968754382
+endProcessing "nerysfeaturesmod/ClientProxyNerYsFeaturesMod.java"
+
+startProcessing "nerysfeaturesmod/ElementsNerYsFeaturesMod.java" md5: 69d5f3a72ee70c451fca0f60946ea505
+endProcessing "nerysfeaturesmod/ElementsNerYsFeaturesMod.java"
+
+startProcessing "nerysfeaturesmod/IProxyNerYsFeaturesMod.java" md5: acae16207cee9bd62e2ece79c85ba74d
+endProcessing "nerysfeaturesmod/IProxyNerYsFeaturesMod.java"
+
+startProcessing "nerysfeaturesmod/NerYsFeaturesMod.java" md5: ffbfaa3e5e8867f60e1cc43230b34bff
+endProcessing "nerysfeaturesmod/NerYsFeaturesMod.java"
+
+startProcessing "nerysfeaturesmod/NerYsFeaturesModVariables.java" md5: 3f5ac7dfaff2f81fb4da8debbf0856b4
+endProcessing "nerysfeaturesmod/NerYsFeaturesModVariables.java"
+
+startProcessing "nerysfeaturesmod/ServerProxyNerYsFeaturesMod.java" md5: a9193be543059d87e5db25822a41c191
+endProcessing "nerysfeaturesmod/ServerProxyNerYsFeaturesMod.java"
+
+startProcessing "nerysfeaturesmod/block/BlockBasalt.java" md5: 3e9e1802391986ab8a28735729da60fc
+endProcessing "nerysfeaturesmod/block/BlockBasalt.java"
+
+startProcessing "nerysfeaturesmod/block/BlockBasaltsideslab.java" md5: 9a3b9ab474160fa661f63496044c4dfb
+endProcessing "nerysfeaturesmod/block/BlockBasaltsideslab.java"
+
+startProcessing "nerysfeaturesmod/block/BlockBasaltsidestairs.java" md5: 26bdc7ef3aecd36f5ec2a6d0482b6561
+endProcessing "nerysfeaturesmod/block/BlockBasaltsidestairs.java"
+
+startProcessing "nerysfeaturesmod/block/BlockBasalttopslab.java" md5: b34179eeeb569e7dfb560ee45de353c9
+endProcessing "nerysfeaturesmod/block/BlockBasalttopslab.java"
+
+startProcessing "nerysfeaturesmod/block/BlockBeaconessenceblock.java" md5: def57c66e7e597748a669bb5f90cff13
+endProcessing "nerysfeaturesmod/block/BlockBeaconessenceblock.java"
+
+startProcessing "nerysfeaturesmod/block/BlockBeaconessencefence.java" md5: 17b44e48fb8b7f4a781ce669cb488336
+endProcessing "nerysfeaturesmod/block/BlockBeaconessencefence.java"
+
+startProcessing "nerysfeaturesmod/block/BlockBeaconessenceslab.java" md5: 648a654baf6cefd0d2e1474cd4da827f
+endProcessing "nerysfeaturesmod/block/BlockBeaconessenceslab.java"
+
+startProcessing "nerysfeaturesmod/block/BlockBeaconessencestairs.java" md5: 4535c33f744412a9138ad3360bccce13
+endProcessing "nerysfeaturesmod/block/BlockBeaconessencestairs.java"
+
+startProcessing "nerysfeaturesmod/block/BlockBeaconessencewall.java" md5: bfb7416d8f6bcfc15d7bc2499d1fe82f
+endProcessing "nerysfeaturesmod/block/BlockBeaconessencewall.java"
+
+startProcessing "nerysfeaturesmod/block/BlockBlackstone.java" md5: 6c22f1c86ea5c83998b134c667fe001e
+endProcessing "nerysfeaturesmod/block/BlockBlackstone.java"
+
+startProcessing "nerysfeaturesmod/block/BlockBsalttopstairs.java" md5: 44b705e461b27702887ecf4ec45ed1db
+endProcessing "nerysfeaturesmod/block/BlockBsalttopstairs.java"
+
+startProcessing "nerysfeaturesmod/block/BlockConcentratedglass.java" md5: a1d02d6d71f7e923133205bf0e1d29ac
+endProcessing "nerysfeaturesmod/block/BlockConcentratedglass.java"
+
+startProcessing "nerysfeaturesmod/block/BlockDarkDiamondOre.java" md5: 4b706a98955820fe5b92adf6bf0d8d70
+endProcessing "nerysfeaturesmod/block/BlockDarkDiamondOre.java"
+
+startProcessing "nerysfeaturesmod/block/BlockDarkDiamondOreBlock.java" md5: 90edffe966cbb037cf6c29187fef2a53
+endProcessing "nerysfeaturesmod/block/BlockDarkDiamondOreBlock.java"
+
+startProcessing "nerysfeaturesmod/block/BlockEnderPearlBlock.java" md5: c0b36a8d6e5a862343eb1a87e6c40544
+endProcessing "nerysfeaturesmod/block/BlockEnderPearlBlock.java"
+
+startProcessing "nerysfeaturesmod/block/BlockFutureblock.java" md5: 042165f879e8a0ebab938b462e5dd827
+endProcessing "nerysfeaturesmod/block/BlockFutureblock.java"
+
+startProcessing "nerysfeaturesmod/block/BlockFuturefence.java" md5: 675fc2e4339e4391d9ca3e96fe53a97f
+endProcessing "nerysfeaturesmod/block/BlockFuturefence.java"
+
+startProcessing "nerysfeaturesmod/block/BlockFutureslab.java" md5: 8f6cade6e57f283f80cf8334e7f6b210
+endProcessing "nerysfeaturesmod/block/BlockFutureslab.java"
+
+startProcessing "nerysfeaturesmod/block/BlockFuturetreeplanks.java" md5: a5b4f84d478aaa49e48ba1a7b026ea11
+endProcessing "nerysfeaturesmod/block/BlockFuturetreeplanks.java"
+
+startProcessing "nerysfeaturesmod/block/BlockFuturetreewood.java" md5: 476f9a427aadb502fa3ddece1f66886b
+endProcessing "nerysfeaturesmod/block/BlockFuturetreewood.java"
+
+startProcessing "nerysfeaturesmod/block/BlockFuturewoodstairs.java" md5: 5e7e9a9b310964eb37672efaaf86bc88
+endProcessing "nerysfeaturesmod/block/BlockFuturewoodstairs.java"
+
+startProcessing "nerysfeaturesmod/block/BlockGoldenstarcanalizer.java" md5: 186bf1db6a0af4267af551a217aef0d3
+endProcessing "nerysfeaturesmod/block/BlockGoldenstarcanalizer.java"
+
+startProcessing "nerysfeaturesmod/block/BlockGraycactus.java" md5: 4f66145fb5eaa2fdad7b209239fbaa85
+endProcessing "nerysfeaturesmod/block/BlockGraycactus.java"
+
+startProcessing "nerysfeaturesmod/block/BlockGreencactus.java" md5: bc2efdb51c018253477de0ab259638dd
+endProcessing "nerysfeaturesmod/block/BlockGreencactus.java"
+
+startProcessing "nerysfeaturesmod/block/BlockHammerincaver.java" md5: 0c4ebc251e5af3db5f5c07c763aa689d
+endProcessing "nerysfeaturesmod/block/BlockHammerincaver.java"
+
+startProcessing "nerysfeaturesmod/block/BlockHarderobsidian.java" md5: 63f0186b727ccc92793894348b3bfb4d
+endProcessing "nerysfeaturesmod/block/BlockHarderobsidian.java"
+
+startProcessing "nerysfeaturesmod/block/BlockHardobsidian.java" md5: 194b1dccaf10c9a99dcd6e63a73428b3
+endProcessing "nerysfeaturesmod/block/BlockHardobsidian.java"
+
+startProcessing "nerysfeaturesmod/block/BlockIncaverblock.java" md5: 9df7f331f69a7b8eaad179672143cb1e
+endProcessing "nerysfeaturesmod/block/BlockIncaverblock.java"
+
+startProcessing "nerysfeaturesmod/block/BlockLichenblackstone.java" md5: e4876aa3d272c55a769e394dde0ad7c1
+endProcessing "nerysfeaturesmod/block/BlockLichenblackstone.java"
+
+startProcessing "nerysfeaturesmod/block/BlockLight.java" md5: 571f59b65323a46a5800dc1653fe1a9a
+endProcessing "nerysfeaturesmod/block/BlockLight.java"
+
+startProcessing "nerysfeaturesmod/block/BlockLightbluecactus.java" md5: fe995f138283edc643f0633b0a317bf7
+endProcessing "nerysfeaturesmod/block/BlockLightbluecactus.java"
+
+startProcessing "nerysfeaturesmod/block/BlockLightgraycactus.java" md5: 8959aee70a2c7de07fb23971b47a43e8
+endProcessing "nerysfeaturesmod/block/BlockLightgraycactus.java"
+
+startProcessing "nerysfeaturesmod/block/BlockLimecactus.java" md5: 8b6f1eca4bfb45052ad4cb65f216ce78
+endProcessing "nerysfeaturesmod/block/BlockLimecactus.java"
+
+startProcessing "nerysfeaturesmod/block/BlockMagentaCactus.java" md5: 99c2695c06a47617eee12d62a88aa533
+endProcessing "nerysfeaturesmod/block/BlockMagentaCactus.java"
+
+startProcessing "nerysfeaturesmod/block/BlockMagmaticbasalt.java" md5: a26d83b969de06971f08d6f9f44b150d
+endProcessing "nerysfeaturesmod/block/BlockMagmaticbasalt.java"
+
+startProcessing "nerysfeaturesmod/block/BlockNetherfrence.java" md5: 06bc8fc5502e8a17ff84ac5cd2391e2f
+endProcessing "nerysfeaturesmod/block/BlockNetherfrence.java"
+
+startProcessing "nerysfeaturesmod/block/BlockNetherleaves.java" md5: 89e2c63aaa761c2e39b1738c40d744aa
+endProcessing "nerysfeaturesmod/block/BlockNetherleaves.java"
+
+startProcessing "nerysfeaturesmod/block/BlockNetherplanks.java" md5: b9679a1c504d308bbe7da1412ff17fe4
+endProcessing "nerysfeaturesmod/block/BlockNetherplanks.java"
+
+startProcessing "nerysfeaturesmod/block/BlockNetherslab.java" md5: b3f03743be71ca005871979f6029065f
+endProcessing "nerysfeaturesmod/block/BlockNetherslab.java"
+
+startProcessing "nerysfeaturesmod/block/BlockNetherstairs.java" md5: 8802c8aa9065a54a281192b98ea49520
+endProcessing "nerysfeaturesmod/block/BlockNetherstairs.java"
+
+startProcessing "nerysfeaturesmod/block/BlockNetherstem.java" md5: 79a84a9d08b9cd556b9bd4e197b97af1
+endProcessing "nerysfeaturesmod/block/BlockNetherstem.java"
+
+startProcessing "nerysfeaturesmod/block/BlockNewtreeleaves.java" md5: 97bb0bc7749c73b1caac3aff3c925b89
+endProcessing "nerysfeaturesmod/block/BlockNewtreeleaves.java"
+
+startProcessing "nerysfeaturesmod/block/BlockOrangecactus.java" md5: b67697508fe366ec06fe2fdc947e3dc5
+endProcessing "nerysfeaturesmod/block/BlockOrangecactus.java"
+
+startProcessing "nerysfeaturesmod/block/BlockPinkcactus.java" md5: d5db71647fe99f7e91d8cb73cd2649da
+endProcessing "nerysfeaturesmod/block/BlockPinkcactus.java"
+
+startProcessing "nerysfeaturesmod/block/BlockPlatinumOre.java" md5: 8ecf95d0f55acdae7f17ff956df9ee80
+endProcessing "nerysfeaturesmod/block/BlockPlatinumOre.java"
+
+startProcessing "nerysfeaturesmod/block/BlockPlatinumOreBlock.java" md5: 9f999d30c403e97fc6d03c93d7f69694
+endProcessing "nerysfeaturesmod/block/BlockPlatinumOreBlock.java"
+
+startProcessing "nerysfeaturesmod/block/BlockPurifiedappleblock.java" md5: 6412719a0440c2e917d2400744c6b109
+endProcessing "nerysfeaturesmod/block/BlockPurifiedappleblock.java"
+
+startProcessing "nerysfeaturesmod/block/BlockPurplecactus.java" md5: 0b463dcff347f5ac34bba4fd8032db19
+endProcessing "nerysfeaturesmod/block/BlockPurplecactus.java"
+
+startProcessing "nerysfeaturesmod/block/BlockRedcactus.java" md5: 7f883cb34c98c101f0dc637e1b9f3c91
+endProcessing "nerysfeaturesmod/block/BlockRedcactus.java"
+
+startProcessing "nerysfeaturesmod/block/BlockSakuraLeaves.java" md5: cdab51963c6f10c1122d3f49ae0cf218
+endProcessing "nerysfeaturesmod/block/BlockSakuraLeaves.java"
+
+startProcessing "nerysfeaturesmod/block/BlockSakuraLog.java" md5: f2ac4faae9591d4f6d45dd37e59f916c
+endProcessing "nerysfeaturesmod/block/BlockSakuraLog.java"
+
+startProcessing "nerysfeaturesmod/block/BlockSakuraPlanks.java" md5: e0f1da21a9d026df8b62d623d94cf7db
+endProcessing "nerysfeaturesmod/block/BlockSakuraPlanks.java"
+
+startProcessing "nerysfeaturesmod/block/BlockSakurafence.java" md5: bfa250f9fdabfd29aae8a5e6e0b09bf3
+endProcessing "nerysfeaturesmod/block/BlockSakurafence.java"
+
+startProcessing "nerysfeaturesmod/block/BlockSakuraplanksslab.java" md5: 23677cb85a6e2ce28f59cb07664ab1d1
+endProcessing "nerysfeaturesmod/block/BlockSakuraplanksslab.java"
+
+startProcessing "nerysfeaturesmod/block/BlockSakurastairs.java" md5: cff3df9c88e7e8759cd9fd7c71b025ce
+endProcessing "nerysfeaturesmod/block/BlockSakurastairs.java"
+
+startProcessing "nerysfeaturesmod/block/BlockStrongestWeaponResieder.java" md5: 689c7a1bccb11f43b2ebed97dbc309b8
+endProcessing "nerysfeaturesmod/block/BlockStrongestWeaponResieder.java"
+
+startProcessing "nerysfeaturesmod/block/BlockVoidblock.java" md5: 64907baac83ad654f6ca916e12c915a8
+endProcessing "nerysfeaturesmod/block/BlockVoidblock.java"
+
+startProcessing "nerysfeaturesmod/block/BlockYellowcactus.java" md5: ad5be1d9e98a14409f86ed15ff712857
+endProcessing "nerysfeaturesmod/block/BlockYellowcactus.java"
+
+startProcessing "nerysfeaturesmod/gui/GuiGoldenstarcanalizergui.java" md5: f4267b0a8af0759b936017b30c02401b
+endProcessing "nerysfeaturesmod/gui/GuiGoldenstarcanalizergui.java"
+
+startProcessing "nerysfeaturesmod/gui/GuiGoldenswordincavergui.java" md5: 078ad9e13693b7c86c9d0588266557bc
+endProcessing "nerysfeaturesmod/gui/GuiGoldenswordincavergui.java"
+
+startProcessing "nerysfeaturesmod/gui/GuiGuiforhammerincaver.java" md5: 60e339c1da25f8f5dc4fecf3fc2a2299
+endProcessing "nerysfeaturesmod/gui/GuiGuiforhammerincaver.java"
+
+startProcessing "nerysfeaturesmod/gui/GuiStrongestweapon.java" md5: 8a394cd4ffd61b5e96bd14cf965268c5
+endProcessing "nerysfeaturesmod/gui/GuiStrongestweapon.java"
+
+startProcessing "nerysfeaturesmod/item/ItemAppleingot.java" md5: 4a249bf18e1acaa029f339b169b2ab2e
+endProcessing "nerysfeaturesmod/item/ItemAppleingot.java"
+
+startProcessing "nerysfeaturesmod/item/ItemAppleingotarmorArmor.java" md5: 76da11b22a1b864ab15dd39e3a19136f
+endProcessing "nerysfeaturesmod/item/ItemAppleingotarmorArmor.java"
+
+startProcessing "nerysfeaturesmod/item/ItemAppleingotfood.java" md5: e5cd17faa07bc30c300949ede569611f
+endProcessing "nerysfeaturesmod/item/ItemAppleingotfood.java"
+
+startProcessing "nerysfeaturesmod/item/ItemAppleingottoolsAxe.java" md5: fcc7c8b790558605cb05685908629cc2
+endProcessing "nerysfeaturesmod/item/ItemAppleingottoolsAxe.java"
+
+startProcessing "nerysfeaturesmod/item/ItemAppleingottoolsHoe.java" md5: b511c69dfc7316d370b23b2b1ad3af99
+endProcessing "nerysfeaturesmod/item/ItemAppleingottoolsHoe.java"
+
+startProcessing "nerysfeaturesmod/item/ItemAppleingottoolsPickaxe.java" md5: 0e0669803db0693b58be3da8b286e916
+endProcessing "nerysfeaturesmod/item/ItemAppleingottoolsPickaxe.java"
+
+startProcessing "nerysfeaturesmod/item/ItemAppleingottoolsShovel.java" md5: 2513b84eb715ee736205c10f220bbf38
+endProcessing "nerysfeaturesmod/item/ItemAppleingottoolsShovel.java"
+
+startProcessing "nerysfeaturesmod/item/ItemAppleingottoolsSword.java" md5: 69d549bcd290eb3c1a039efb68d7e1e1
+endProcessing "nerysfeaturesmod/item/ItemAppleingottoolsSword.java"
+
+startProcessing "nerysfeaturesmod/item/ItemApplenugget.java" md5: 4c89ec6959217a5a609180d7bf70e441
+endProcessing "nerysfeaturesmod/item/ItemApplenugget.java"
+
+startProcessing "nerysfeaturesmod/item/ItemBeaconessence.java" md5: 070c31cb02017b4895a421f6e277a2f9
+endProcessing "nerysfeaturesmod/item/ItemBeaconessence.java"
+
+startProcessing "nerysfeaturesmod/item/ItemCosmosstarstep3.java" md5: c896715de71c5a722efabe4144b9f1f8
+endProcessing "nerysfeaturesmod/item/ItemCosmosstarstep3.java"
+
+startProcessing "nerysfeaturesmod/item/ItemCraftingShell.java" md5: 57a04508948bf9788f4d38729d773e65
+endProcessing "nerysfeaturesmod/item/ItemCraftingShell.java"
+
+startProcessing "nerysfeaturesmod/item/ItemDark.java" md5: 2e172f431da6fe044cef210d3ca4b3e1
+endProcessing "nerysfeaturesmod/item/ItemDark.java"
+
+startProcessing "nerysfeaturesmod/item/ItemDarkDiamondArmor.java" md5: d313221cc39d98043878388a2ef0de7e
+endProcessing "nerysfeaturesmod/item/ItemDarkDiamondArmor.java"
+
+startProcessing "nerysfeaturesmod/item/ItemDarkDiamondAxe.java" md5: 02a3b948e995e1c9d7c377cd14f98570
+endProcessing "nerysfeaturesmod/item/ItemDarkDiamondAxe.java"
+
+startProcessing "nerysfeaturesmod/item/ItemDarkDiamondGem.java" md5: 0a0ee6d6731cb3cbbeb114add9ac8fdd
+endProcessing "nerysfeaturesmod/item/ItemDarkDiamondGem.java"
+
+startProcessing "nerysfeaturesmod/item/ItemDarkDiamondHoe.java" md5: ad8b0bf9e9836e5b64ee8ddc8667ded1
+endProcessing "nerysfeaturesmod/item/ItemDarkDiamondHoe.java"
+
+startProcessing "nerysfeaturesmod/item/ItemDarkDiamondPickaxe.java" md5: bd1eb796fca84db9846e3a874d243905
+endProcessing "nerysfeaturesmod/item/ItemDarkDiamondPickaxe.java"
+
+startProcessing "nerysfeaturesmod/item/ItemDarkDiamondShovel.java" md5: 76dc38f875f452edf5cc8b6f962a2d85
+endProcessing "nerysfeaturesmod/item/ItemDarkDiamondShovel.java"
+
+startProcessing "nerysfeaturesmod/item/ItemDarkDiamondSword.java" md5: 0348412ede7587c7861ba4dc3320bff1
+endProcessing "nerysfeaturesmod/item/ItemDarkDiamondSword.java"
+
+startProcessing "nerysfeaturesmod/item/ItemDarkDot.java" md5: c80bcfb12d539be39641895c72cfa62e
+endProcessing "nerysfeaturesmod/item/ItemDarkDot.java"
+
+startProcessing "nerysfeaturesmod/item/ItemDarkMatter.java" md5: 8baa8b739fdeb5560871a53eafbc5e0a
+endProcessing "nerysfeaturesmod/item/ItemDarkMatter.java"
+
+startProcessing "nerysfeaturesmod/item/ItemDarkcosmosstar.java" md5: 394c536bb73d70bdc1b7116a61b845d1
+endProcessing "nerysfeaturesmod/item/ItemDarkcosmosstar.java"
+
+startProcessing "nerysfeaturesmod/item/ItemDarknuggetgem.java" md5: a3bbd02f5af41f537376274cbedce5df
+endProcessing "nerysfeaturesmod/item/ItemDarknuggetgem.java"
+
+startProcessing "nerysfeaturesmod/item/ItemDarkparticles.java" md5: 639685a903c0bf0ed526ef4f812656f0
+endProcessing "nerysfeaturesmod/item/ItemDarkparticles.java"
+
+startProcessing "nerysfeaturesmod/item/ItemDarkrod.java" md5: d58668c9cdd7f4142b995640da08129a
+endProcessing "nerysfeaturesmod/item/ItemDarkrod.java"
+
+startProcessing "nerysfeaturesmod/item/ItemDiamondnugget.java" md5: cf32b3d4d5080c922ea687202718d36a
+endProcessing "nerysfeaturesmod/item/ItemDiamondnugget.java"
+
+startProcessing "nerysfeaturesmod/item/ItemEndernugget.java" md5: 13d39e6581fcd12c7c20c7eae74a77ca
+endProcessing "nerysfeaturesmod/item/ItemEndernugget.java"
+
+startProcessing "nerysfeaturesmod/item/ItemExcalibur.java" md5: 8a9febbdbf891aff4f6015c016d91282
+endProcessing "nerysfeaturesmod/item/ItemExcalibur.java"
+
+startProcessing "nerysfeaturesmod/item/ItemFixedPowergem.java" md5: 070671af2a02b14a5682462d19938f2a
+endProcessing "nerysfeaturesmod/item/ItemFixedPowergem.java"
+
+startProcessing "nerysfeaturesmod/item/ItemGoldenswordt.java" md5: 4bf4a649baca41d199f51e9772838ee7
+endProcessing "nerysfeaturesmod/item/ItemGoldenswordt.java"
+
+startProcessing "nerysfeaturesmod/item/ItemGrill.java" md5: 5748c93a88771470a22cb9f3d37a873a
+endProcessing "nerysfeaturesmod/item/ItemGrill.java"
+
+startProcessing "nerysfeaturesmod/item/ItemHammer.java" md5: e39196231725f48052d70e9a409cf055
+endProcessing "nerysfeaturesmod/item/ItemHammer.java"
+
+startProcessing "nerysfeaturesmod/item/ItemHammerofthegodofdistruction.java" md5: 0096d256b1e2e8e2615a178a165f0c93
+endProcessing "nerysfeaturesmod/item/ItemHammerofthegodofdistruction.java"
+
+startProcessing "nerysfeaturesmod/item/ItemIncavedgoldsword.java" md5: dea9796c557fa81d7db04fc884740720
+endProcessing "nerysfeaturesmod/item/ItemIncavedgoldsword.java"
+
+startProcessing "nerysfeaturesmod/item/ItemIncavedhammer.java" md5: 1f56e16e31f54aa5d893f0e219264e97
+endProcessing "nerysfeaturesmod/item/ItemIncavedhammer.java"
+
+startProcessing "nerysfeaturesmod/item/ItemInvisibility.java" md5: 220d5dee397814c143dc5cdfbbd8b41a
+endProcessing "nerysfeaturesmod/item/ItemInvisibility.java"
+
+startProcessing "nerysfeaturesmod/item/ItemLightarmorArmor.java" md5: b7d70ce7df4f087a14d1b96643f83332
+endProcessing "nerysfeaturesmod/item/ItemLightarmorArmor.java"
+
+startProcessing "nerysfeaturesmod/item/ItemLightingot.java" md5: b3b83fd075efdd6b5e074ebe9677d9c1
+endProcessing "nerysfeaturesmod/item/ItemLightingot.java"
+
+startProcessing "nerysfeaturesmod/item/ItemLightitem.java" md5: 177384b32b0e97eb5f4e2e1370c4283b
+endProcessing "nerysfeaturesmod/item/ItemLightitem.java"
+
+startProcessing "nerysfeaturesmod/item/ItemLightrod.java" md5: 919ef619833d04a920078a152fa1405a
+endProcessing "nerysfeaturesmod/item/ItemLightrod.java"
+
+startProcessing "nerysfeaturesmod/item/ItemLightsword.java" md5: 4bbc64b186b763d97ba88f79db26460b
+endProcessing "nerysfeaturesmod/item/ItemLightsword.java"
+
+startProcessing "nerysfeaturesmod/item/ItemNicedisk.java" md5: 2626173e90ca292fa7d4bbd194c47177
+endProcessing "nerysfeaturesmod/item/ItemNicedisk.java"
+
+startProcessing "nerysfeaturesmod/item/ItemNokia3310.java" md5: 16f1c3548a372a8452eafe31852d5f65
+endProcessing "nerysfeaturesmod/item/ItemNokia3310.java"
+
+startProcessing "nerysfeaturesmod/item/ItemPlatinumArmor.java" md5: 0c7d39b5b9e2ff4b765f0f57bd44f6ef
+endProcessing "nerysfeaturesmod/item/ItemPlatinumArmor.java"
+
+startProcessing "nerysfeaturesmod/item/ItemPlatinumAxe.java" md5: 9308e6ef5cb363bae7914a17a4c1bd42
+endProcessing "nerysfeaturesmod/item/ItemPlatinumAxe.java"
+
+startProcessing "nerysfeaturesmod/item/ItemPlatinumHoe.java" md5: f96d89b5390b0868eb5a39378ca3dbd8
+endProcessing "nerysfeaturesmod/item/ItemPlatinumHoe.java"
+
+startProcessing "nerysfeaturesmod/item/ItemPlatinumIngot.java" md5: 1f3248603052502678099606524ae3ba
+endProcessing "nerysfeaturesmod/item/ItemPlatinumIngot.java"
+
+startProcessing "nerysfeaturesmod/item/ItemPlatinumPickaxe.java" md5: b9836b044e0164a8b711687b9c6b2586
+endProcessing "nerysfeaturesmod/item/ItemPlatinumPickaxe.java"
+
+startProcessing "nerysfeaturesmod/item/ItemPlatinumShovel.java" md5: 202f4b7a92845b8c1804c0f0b28cd8da
+endProcessing "nerysfeaturesmod/item/ItemPlatinumShovel.java"
+
+startProcessing "nerysfeaturesmod/item/ItemPlatinumSword.java" md5: 879204e294d33b855d8b0957a76817b3
+endProcessing "nerysfeaturesmod/item/ItemPlatinumSword.java"
+
+startProcessing "nerysfeaturesmod/item/ItemPlatinumnugget.java" md5: d7c7b271849e4ce577f2f263c0c40490
+endProcessing "nerysfeaturesmod/item/ItemPlatinumnugget.java"
+
+startProcessing "nerysfeaturesmod/item/ItemPowergemstep2.java" md5: 90ca3b3548a91a68e8f71905c38089a2
+endProcessing "nerysfeaturesmod/item/ItemPowergemstep2.java"
+
+startProcessing "nerysfeaturesmod/item/ItemPowerstep1.java" md5: 9ebd35fb4aa08ce281a568ad3d20ded4
+endProcessing "nerysfeaturesmod/item/ItemPowerstep1.java"
+
+startProcessing "nerysfeaturesmod/item/ItemPowersword.java" md5: 4f8099ce6a621f34df3b943b96edbdd4
+endProcessing "nerysfeaturesmod/item/ItemPowersword.java"
+
+startProcessing "nerysfeaturesmod/item/ItemPurifieAppleAxe.java" md5: f5c765b9f86089dcf249e9691c67aa09
+endProcessing "nerysfeaturesmod/item/ItemPurifieAppleAxe.java"
+
+startProcessing "nerysfeaturesmod/item/ItemPurifieAppleHoe.java" md5: 4be70a933afb42050a06708127fac8e6
+endProcessing "nerysfeaturesmod/item/ItemPurifieAppleHoe.java"
+
+startProcessing "nerysfeaturesmod/item/ItemPurifieApplePickaxe.java" md5: 07f20df71ff78b45689d31dead3ae486
+endProcessing "nerysfeaturesmod/item/ItemPurifieApplePickaxe.java"
+
+startProcessing "nerysfeaturesmod/item/ItemPurifieAppleShovel.java" md5: fe8acb99786551b422bc700262c56293
+endProcessing "nerysfeaturesmod/item/ItemPurifieAppleShovel.java"
+
+startProcessing "nerysfeaturesmod/item/ItemPurifieAppleSword.java" md5: d91d98f657d1027cc5c3dc34c21eb841
+endProcessing "nerysfeaturesmod/item/ItemPurifieAppleSword.java"
+
+startProcessing "nerysfeaturesmod/item/ItemPurified_appleArmor.java" md5: 6facc34092d13c4e25244de3f7755090
+endProcessing "nerysfeaturesmod/item/ItemPurified_appleArmor.java"
+
+startProcessing "nerysfeaturesmod/item/ItemPurifiedapplefragment.java" md5: b9294fb0fb5c82e2cd404577566eb165
+endProcessing "nerysfeaturesmod/item/ItemPurifiedapplefragment.java"
+
+startProcessing "nerysfeaturesmod/item/ItemPurifiedappleingot.java" md5: f497315b95ed4e80e3e26f8d47a302ce
+endProcessing "nerysfeaturesmod/item/ItemPurifiedappleingot.java"
+
+startProcessing "nerysfeaturesmod/item/ItemPurifiedapplenugget.java" md5: 10343f95a410315b9037d00f2d174ae4
+endProcessing "nerysfeaturesmod/item/ItemPurifiedapplenugget.java"
+
+startProcessing "nerysfeaturesmod/item/ItemRednepearl.java" md5: 4c251a51ddeebe2e0225dd2e0970aa4d
+endProcessing "nerysfeaturesmod/item/ItemRednepearl.java"
+
+startProcessing "nerysfeaturesmod/item/ItemRednepearlI.java" md5: fd6159331d45a8280846cf79a562499e
+endProcessing "nerysfeaturesmod/item/ItemRednepearlI.java"
+
+startProcessing "nerysfeaturesmod/item/ItemStarContainer.java" md5: be78fea4869ff981d418100f1cce0990
+endProcessing "nerysfeaturesmod/item/ItemStarContainer.java"
+
+startProcessing "nerysfeaturesmod/item/ItemStarcontainerwiththesuninsideit.java" md5: a8171233d40b50e042eb2d2a1c737440
+endProcessing "nerysfeaturesmod/item/ItemStarcontainerwiththesuninsideit.java"
+
+startProcessing "nerysfeaturesmod/item/ItemStarpowerinjectionadapter.java" md5: 4e2ecb3d12705c5966d3551718277390
+endProcessing "nerysfeaturesmod/item/ItemStarpowerinjectionadapter.java"
+
+startProcessing "nerysfeaturesmod/item/ItemSunpowercluster.java" md5: 56c90c8819a7eeed741b593ac7dbf88f
+endProcessing "nerysfeaturesmod/item/ItemSunpowercluster.java"
+
+startProcessing "nerysfeaturesmod/item/ItemSunpowercondensation.java" md5: 44523529c17c9b9b6a7fd217b9a065a2
+endProcessing "nerysfeaturesmod/item/ItemSunpowercondensation.java"
+
+startProcessing "nerysfeaturesmod/item/ItemSupremestarpower.java" md5: 662bc5622afab8e78db3176b4310e4aa
+endProcessing "nerysfeaturesmod/item/ItemSupremestarpower.java"
+
+startProcessing "nerysfeaturesmod/item/ItemTest.java" md5: 8d5d9235f94fc8eef095fde34758af15
+endProcessing "nerysfeaturesmod/item/ItemTest.java"
+
+startProcessing "nerysfeaturesmod/item/ItemThePowerOfTheSun.java" md5: c41ef3715d0335c42d97941d195b446e
+endProcessing "nerysfeaturesmod/item/ItemThePowerOfTheSun.java"
+
+startProcessing "nerysfeaturesmod/item/ItemThepowerofthesunincraftingshell.java" md5: 0c3344cef04313dd085ec6c31acd0a51
+endProcessing "nerysfeaturesmod/item/ItemThepowerofthesunincraftingshell.java"
+
+startProcessing "nerysfeaturesmod/item/ItemThesun.java" md5: d30686633dd32520d51044c4c7059e28
+endProcessing "nerysfeaturesmod/item/ItemThesun.java"
+
+startProcessing "nerysfeaturesmod/item/ItemThesunkinda.java" md5: 5a02193a3230872493d52dd1056e837f
+endProcessing "nerysfeaturesmod/item/ItemThesunkinda.java"
+
+startProcessing "nerysfeaturesmod/item/ItemVerydensedarkcosmosstar.java" md5: 83e68bc33b6c4444b7a632de473aa1a4
+endProcessing "nerysfeaturesmod/item/ItemVerydensedarkcosmosstar.java"
+
+startProcessing "nerysfeaturesmod/item/crafting/RecipeDarkDiamondOreSmelting.java" md5: 346fa6434f72a0278256da88f9e20969
+endProcessing "nerysfeaturesmod/item/crafting/RecipeDarkDiamondOreSmelting.java"
+
+startProcessing "nerysfeaturesmod/item/crafting/RecipePlatinumOreSmelting.java" md5: b01b6ad4988749da138ede94b1bc6d9e
+endProcessing "nerysfeaturesmod/item/crafting/RecipePlatinumOreSmelting.java"
+
+startProcessing "nerysfeaturesmod/item/crafting/RecipePurifiedappleingotR.java" md5: 67c6fc489df2791ccb65a6bf84f7d821
+endProcessing "nerysfeaturesmod/item/crafting/RecipePurifiedappleingotR.java"
+
+startProcessing "nerysfeaturesmod/procedure/ProcedureAppleingotfoodFoodEaten.java" md5: 2d6fe6a07369fdc493daa4fbf23591cb
+endProcessing "nerysfeaturesmod/procedure/ProcedureAppleingotfoodFoodEaten.java"
+
+startProcessing "nerysfeaturesmod/procedure/ProcedureExcaliburMobIsHitWithTool.java" md5: e9d058be506217e519b87f414d2f6e6a
+endProcessing "nerysfeaturesmod/procedure/ProcedureExcaliburMobIsHitWithTool.java"
+
+startProcessing "nerysfeaturesmod/procedure/ProcedureExcaliburRightClickedInAir.java" md5: 9989c16643346a4c166846f4b7d31bdd
+endProcessing "nerysfeaturesmod/procedure/ProcedureExcaliburRightClickedInAir.java"
+
+startProcessing "nerysfeaturesmod/procedure/ProcedureGoldenswordincaverproc.java" md5: a995bec8baa8a2ead824e7bbe15dd60c
+endProcessing "nerysfeaturesmod/procedure/ProcedureGoldenswordincaverproc.java"
+
+startProcessing "nerysfeaturesmod/procedure/ProcedureLightarmorArmorBodyTickEvent.java" md5: 1ee0188c0d997ffcc65d734a269e6afb
+endProcessing "nerysfeaturesmod/procedure/ProcedureLightarmorArmorBodyTickEvent.java"
+
+startProcessing "nerysfeaturesmod/procedure/ProcedureLightarmorArmorBootsTickEvent.java" md5: 134eb66e381947b027f113faa7f9152d
+endProcessing "nerysfeaturesmod/procedure/ProcedureLightarmorArmorBootsTickEvent.java"
+
+startProcessing "nerysfeaturesmod/procedure/ProcedureLightarmorArmorHelmetTickEvent.java" md5: fec91bc83d760bc0fcd25a634d97fc16
+endProcessing "nerysfeaturesmod/procedure/ProcedureLightarmorArmorHelmetTickEvent.java"
+
+startProcessing "nerysfeaturesmod/procedure/ProcedureLightarmorArmorLeggingsTickEvent.java" md5: fbe6b375907b23fd903ff1107a793986
+endProcessing "nerysfeaturesmod/procedure/ProcedureLightarmorArmorLeggingsTickEvent.java"
+
+startProcessing "nerysfeaturesmod/procedure/ProcedureProcedureforgoldenstarcanalizergui.java" md5: 3ff188b41aff81211a7c939a4df0e763
+endProcessing "nerysfeaturesmod/procedure/ProcedureProcedureforgoldenstarcanalizergui.java"
+
+startProcessing "nerysfeaturesmod/procedure/ProcedureProcedureforhammerincaver.java" md5: eae5474242a473a0f2fccf276f4ebdbf
+endProcessing "nerysfeaturesmod/procedure/ProcedureProcedureforhammerincaver.java"
+
+startProcessing "nerysfeaturesmod/procedure/ProcedurePurifiedappleArmorBodyTickEvent.java" md5: 9059c747e31b0983d8b61b7a4818e488
+endProcessing "nerysfeaturesmod/procedure/ProcedurePurifiedappleArmorBodyTickEvent.java"
+
+startProcessing "nerysfeaturesmod/procedure/ProcedurePurifiedappleArmorBootsTickEvent.java" md5: 759948ed74e9e8962c48747f0ff14bb4
+endProcessing "nerysfeaturesmod/procedure/ProcedurePurifiedappleArmorBootsTickEvent.java"
+
+startProcessing "nerysfeaturesmod/procedure/ProcedurePurifiedappleArmorHelmetTickEvent.java" md5: 93d0d84f9dba37a38803fdba847e3d0e
+endProcessing "nerysfeaturesmod/procedure/ProcedurePurifiedappleArmorHelmetTickEvent.java"
+
+startProcessing "nerysfeaturesmod/procedure/ProcedurePurifiedappleArmorLeggingsTickEvent.java" md5: 6631378c56cec20d53053fe2964f1a33
+endProcessing "nerysfeaturesmod/procedure/ProcedurePurifiedappleArmorLeggingsTickEvent.java"
+
+startProcessing "nerysfeaturesmod/procedure/ProcedureSunpowerclusterRightClickedInAir.java" md5: 9dbb16720f3a704bc7df3aba10921858
+endProcessing "nerysfeaturesmod/procedure/ProcedureSunpowerclusterRightClickedInAir.java"
+
+startProcessing "nerysfeaturesmod/procedure/ProcedureThePowerOfTheSunMobIsHitWithTool.java" md5: c2f5bbce65af748cf71a2df8bbf1a97e
+endProcessing "nerysfeaturesmod/procedure/ProcedureThePowerOfTheSunMobIsHitWithTool.java"
+
+startProcessing "nerysfeaturesmod/procedure/ProcedureThePowerOfTheSunRightClickedInAir.java" md5: a32f7332f461d76e79721325ea97522e
+endProcessing "nerysfeaturesmod/procedure/ProcedureThePowerOfTheSunRightClickedInAir.java"
+
+startProcessing "nerysfeaturesmod/procedure/ProcedureThePowerOfTheSunRightClickedOnBlock.java" md5: 28153afdb69b619584fcfa2fd598ad7d
+endProcessing "nerysfeaturesmod/procedure/ProcedureThePowerOfTheSunRightClickedOnBlock.java"
+
+startProcessing "nerysfeaturesmod/procedure/ProcedureThePowerOfTheSunToolInHandTick.java" md5: c1c471b4adc78b48ce710803f84c4355
+endProcessing "nerysfeaturesmod/procedure/ProcedureThePowerOfTheSunToolInHandTick.java"
+
+startProcessing "nerysfeaturesmod/util/OreDictLeaves.java" md5: 98ff34f0637c74d5f55c245c4911946e
+endProcessing "nerysfeaturesmod/util/OreDictLeaves.java"
+
+startProcessing "nerysfeaturesmod/util/OreDictLog.java" md5: ea5cd509619fb39530aff39be605de76
+endProcessing "nerysfeaturesmod/util/OreDictLog.java"
+
+startProcessing "nerysfeaturesmod/util/OreDictPlanks.java" md5: 01b89d6620546b495459998c5d86e592
+endProcessing "nerysfeaturesmod/util/OreDictPlanks.java"
+
+startProcessing "nerysfeaturesmod/world/WorldTest.java" md5: a70c9b792b23133644ba2facd2ce82c6
+endProcessing "nerysfeaturesmod/world/WorldTest.java"
+
+startProcessing "nerysfeaturesmod/world/biome/BiomeFuture.java" md5: 96cbfa09884d283ae67501bc76ec9797
+endProcessing "nerysfeaturesmod/world/biome/BiomeFuture.java"
+
+startProcessing "nerysfeaturesmod/world/biome/BiomeNether1.java" md5: 625feb09d5b166ccae404e2d5d786bac
+endProcessing "nerysfeaturesmod/world/biome/BiomeNether1.java"
+
+startProcessing "nerysfeaturesmod/world/structure/StructureBasaltagglomerate.java" md5: 2b6154b7dfc5c7501d3e51da57dbe877
+endProcessing "nerysfeaturesmod/world/structure/StructureBasaltagglomerate.java"
+
+startProcessing "nerysfeaturesmod/world/structure/StructureFuturemonument.java" md5: d8284167ec83382316de48246ee2ebcf
+endProcessing "nerysfeaturesmod/world/structure/StructureFuturemonument.java"
+
+startProcessing "nerysfeaturesmod/world/structure/StructureNethertree.java" md5: 8076579a757b483faa7f3d67acf8c665
+endProcessing "nerysfeaturesmod/world/structure/StructureNethertree.java"
+
+startProcessing "nerysfeaturesmod/world/structure/StructureOldtower.java" md5: 6ed0412883c48c97d31229035c80c3f3
+endProcessing "nerysfeaturesmod/world/structure/StructureOldtower.java"
+
+startProcessing "nerysfeaturesmod/world/structure/StructureSakuratreeonblocks.java" md5: 982406135337709e114057a01569a8ea
+endProcessing "nerysfeaturesmod/world/structure/StructureSakuratreeonblocks.java"
+
+startProcessing "nerysfeaturesmod/world/structure/StructureSakuratreeongrass.java" md5: 7aa3fb8c419e1e90b16b6f460f5f71ad
+endProcessing "nerysfeaturesmod/world/structure/StructureSakuratreeongrass.java"
+
+startProcessing "nerysfeaturesmod/world/structure/StructureSpawnfuturetree.java" md5: a9054425a31faf1c8ee7a57debe67e68
+endProcessing "nerysfeaturesmod/world/structure/StructureSpawnfuturetree.java"
+
+startProcessing "nerysfeaturesmod/world/structure/StructureStrongestweaponspawn.java" md5: 2a84222ad33543915db7e3addd1e3859
+endProcessing "nerysfeaturesmod/world/structure/StructureStrongestweaponspawn.java"
+

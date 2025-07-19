@@ -1,0 +1,31 @@
+{
+  "_fv": 6,
+  "_type": "structure",
+  "definition": {
+    "structure": "future_tree",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 999999,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnWorldTypes": [
+      "Surface",
+      "CUSTOM:Test"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "Blocks.GRASS"
+      },
+      {
+        "value": "Blocks.STONE#0"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Future"
+      }
+    ]
+  }
+}

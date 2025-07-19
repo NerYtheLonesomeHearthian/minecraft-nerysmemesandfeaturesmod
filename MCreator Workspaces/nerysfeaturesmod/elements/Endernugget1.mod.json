@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Endernugget"
+      },
+      {
+        "value": "CUSTOM:Endernugget"
+      },
+      {
+        "value": "CUSTOM:Endernugget"
+      },
+      {
+        "value": "CUSTOM:Endernugget"
+      },
+      {
+        "value": "CUSTOM:Endernugget"
+      },
+      {
+        "value": "CUSTOM:Endernugget"
+      },
+      {
+        "value": "CUSTOM:Endernugget"
+      },
+      {
+        "value": "CUSTOM:Endernugget"
+      },
+      {
+        "value": "CUSTOM:Endernugget"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.ENDER_PEARL"
+    },
+    "name": "endernugget1",
+    "namespace": "mod"
+  }
+}

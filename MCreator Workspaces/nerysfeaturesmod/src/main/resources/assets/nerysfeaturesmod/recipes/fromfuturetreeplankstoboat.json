@@ -1,0 +1,29 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:future_tree_planks"
+    },
+    "2": {
+      "item": "nerysfeaturesmod:future_tree_planks"
+    },
+    "3": {
+      "item": "nerysfeaturesmod:future_tree_planks"
+    },
+    "4": {
+      "item": "nerysfeaturesmod:future_tree_planks"
+    },
+    "5": {
+      "item": "nerysfeaturesmod:future_tree_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:boat",
+    "count": 1
+  }
+}

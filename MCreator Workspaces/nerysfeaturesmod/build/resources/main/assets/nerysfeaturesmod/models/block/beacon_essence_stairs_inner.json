@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "nerysfeaturesmod:blocks/beacon",
+    "top": "nerysfeaturesmod:blocks/beacon",
+    "side": "nerysfeaturesmod:blocks/beacon"
+  }
+}

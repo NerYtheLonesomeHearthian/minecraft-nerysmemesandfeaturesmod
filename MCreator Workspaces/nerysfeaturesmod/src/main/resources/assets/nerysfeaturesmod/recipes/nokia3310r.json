@@ -1,0 +1,42 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:harder_obsidian"
+    },
+    "1": {
+      "item": "nerysfeaturesmod:harder_obsidian"
+    },
+    "2": {
+      "item": "nerysfeaturesmod:harder_obsidian"
+    },
+    "3": {
+      "item": "nerysfeaturesmod:harder_obsidian"
+    },
+    "4": {
+      "item": "nerysfeaturesmod:sun_power_condensation"
+    },
+    "5": {
+      "item": "nerysfeaturesmod:harder_obsidian"
+    },
+    "6": {
+      "item": "nerysfeaturesmod:harder_obsidian"
+    },
+    "7": {
+      "item": "nerysfeaturesmod:harder_obsidian"
+    },
+    "8": {
+      "item": "nerysfeaturesmod:harder_obsidian"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:nokia_3310",
+    "count": 1
+  }
+}

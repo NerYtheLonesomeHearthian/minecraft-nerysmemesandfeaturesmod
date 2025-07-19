@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nerysfeaturesmod:blocks/futuretreelogtop",
+    "up": "nerysfeaturesmod:blocks/futuretreelogtop",
+    "north": "nerysfeaturesmod:blocks/2021-08-09_22.54.05",
+    "east": "nerysfeaturesmod:blocks/2021-08-09_22.54.05",
+    "south": "nerysfeaturesmod:blocks/2021-08-09_22.54.05",
+    "west": "nerysfeaturesmod:blocks/2021-08-09_22.54.05",
+    "particle": "nerysfeaturesmod:blocks/futuretreelogtop"
+  }
+}

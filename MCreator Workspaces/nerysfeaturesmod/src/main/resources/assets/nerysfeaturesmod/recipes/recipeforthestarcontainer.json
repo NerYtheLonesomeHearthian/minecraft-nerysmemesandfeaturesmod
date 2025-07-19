@@ -1,0 +1,39 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:beacon_essence_slab"
+    },
+    "1": {
+      "item": "nerysfeaturesmod:beacon_essence_slab"
+    },
+    "2": {
+      "item": "nerysfeaturesmod:beacon_essence_slab"
+    },
+    "3": {
+      "item": "nerysfeaturesmod:concentrated_glass"
+    },
+    "5": {
+      "item": "nerysfeaturesmod:concentrated_glass"
+    },
+    "6": {
+      "item": "nerysfeaturesmod:concentrated_glass"
+    },
+    "7": {
+      "item": "nerysfeaturesmod:concentrated_glass"
+    },
+    "8": {
+      "item": "nerysfeaturesmod:concentrated_glass"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:star_container",
+    "count": 1
+  }
+}

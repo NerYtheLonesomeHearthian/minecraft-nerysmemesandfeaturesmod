@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "platinum_shovel",
+    "customModelName": "Normal",
+    "name": "Platinum Shovel",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 32,
+    "efficiency": 42.0,
+    "attackSpeed": 2.0,
+    "enchantability": 224,
+    "damageVsEntity": 32.0,
+    "usageCount": 9192,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:PlatinumIngot"
+      }
+    ]
+  }
+}

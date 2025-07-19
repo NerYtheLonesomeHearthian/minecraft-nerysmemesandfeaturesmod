@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "light_gray",
+        "1": "white",
+        "missing": "lightrod_3dmodel"
+      },
+      "name": "default"
+    }
+  }
+}

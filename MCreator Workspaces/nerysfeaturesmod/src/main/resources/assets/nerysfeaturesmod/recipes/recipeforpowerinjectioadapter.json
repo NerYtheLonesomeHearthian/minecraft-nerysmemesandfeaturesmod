@@ -1,0 +1,36 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:slime"
+    },
+    "2": {
+      "item": "minecraft:slime"
+    },
+    "3": {
+      "item": "nerysfeaturesmod:concentrated_glass"
+    },
+    "4": {
+      "item": "nerysfeaturesmod:beacon_essence_stairs"
+    },
+    "5": {
+      "item": "nerysfeaturesmod:concentrated_glass"
+    },
+    "6": {
+      "item": "nerysfeaturesmod:concentrated_glass"
+    },
+    "8": {
+      "item": "nerysfeaturesmod:concentrated_glass"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:starpower_injection_adapter",
+    "count": 1
+  }
+}

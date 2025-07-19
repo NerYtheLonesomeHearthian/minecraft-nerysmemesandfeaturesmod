@@ -1,0 +1,39 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:future_tree_planks"
+    },
+    "1": {
+      "item": "nerysfeaturesmod:future_tree_planks"
+    },
+    "2": {
+      "item": "nerysfeaturesmod:future_tree_planks"
+    },
+    "3": {
+      "item": "nerysfeaturesmod:future_tree_planks"
+    },
+    "5": {
+      "item": "nerysfeaturesmod:future_tree_planks"
+    },
+    "6": {
+      "item": "nerysfeaturesmod:future_tree_planks"
+    },
+    "7": {
+      "item": "nerysfeaturesmod:future_tree_planks"
+    },
+    "8": {
+      "item": "nerysfeaturesmod:future_tree_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:chest",
+    "count": 1
+  }
+}

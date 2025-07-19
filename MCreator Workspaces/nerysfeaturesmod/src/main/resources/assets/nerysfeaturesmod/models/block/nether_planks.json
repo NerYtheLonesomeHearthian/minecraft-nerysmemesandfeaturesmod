@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nerysfeaturesmod:blocks/nether_planks",
+    "up": "nerysfeaturesmod:blocks/nether_planks",
+    "north": "nerysfeaturesmod:blocks/nether_planks",
+    "east": "nerysfeaturesmod:blocks/nether_planks",
+    "south": "nerysfeaturesmod:blocks/nether_planks",
+    "west": "nerysfeaturesmod:blocks/nether_planks",
+    "particle": "nerysfeaturesmod:blocks/nether_planks"
+  }
+}

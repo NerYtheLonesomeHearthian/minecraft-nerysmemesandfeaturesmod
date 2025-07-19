@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "platinum_pickaxe",
+    "customModelName": "Normal",
+    "name": "Platinum Pickaxe",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 16,
+    "efficiency": 21.0,
+    "attackSpeed": 1.0,
+    "enchantability": 112,
+    "damageVsEntity": 16.0,
+    "usageCount": 4595,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

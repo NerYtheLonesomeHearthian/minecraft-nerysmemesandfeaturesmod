@@ -1,0 +1,14 @@
+{
+  "nerysfeaturesmod:powerswordobtained": {
+    "criteria": {
+      "powerswordobtained": "2021-08-09 20:37:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2021-08-09 20:37:02 +0200"
+    },
+    "done": false
+  }
+}

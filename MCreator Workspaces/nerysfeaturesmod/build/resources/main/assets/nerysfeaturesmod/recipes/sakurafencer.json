@@ -1,0 +1,32 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:sakuraplanks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "nerysfeaturesmod:sakuraplanks"
+    },
+    "3": {
+      "item": "nerysfeaturesmod:sakuraplanks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "nerysfeaturesmod:sakuraplanks"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:sakura_fence",
+    "count": 3
+  }
+}

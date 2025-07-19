@@ -1,0 +1,42 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:hard_obsidian"
+    },
+    "1": {
+      "item": "nerysfeaturesmod:hard_obsidian"
+    },
+    "2": {
+      "item": "nerysfeaturesmod:hard_obsidian"
+    },
+    "3": {
+      "item": "nerysfeaturesmod:hard_obsidian"
+    },
+    "4": {
+      "item": "nerysfeaturesmod:hard_obsidian"
+    },
+    "5": {
+      "item": "nerysfeaturesmod:hard_obsidian"
+    },
+    "6": {
+      "item": "nerysfeaturesmod:hard_obsidian"
+    },
+    "7": {
+      "item": "nerysfeaturesmod:hard_obsidian"
+    },
+    "8": {
+      "item": "nerysfeaturesmod:hard_obsidian"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:harder_obsidian",
+    "count": 1
+  }
+}

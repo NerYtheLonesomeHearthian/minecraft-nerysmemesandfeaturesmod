@@ -1,0 +1,33 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:sakuraplanks"
+    },
+    "3": {
+      "item": "nerysfeaturesmod:sakuraplanks"
+    },
+    "4": {
+      "item": "nerysfeaturesmod:sakuraplanks"
+    },
+    "6": {
+      "item": "nerysfeaturesmod:sakuraplanks"
+    },
+    "7": {
+      "item": "nerysfeaturesmod:sakuraplanks"
+    },
+    "8": {
+      "item": "nerysfeaturesmod:sakuraplanks"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:sakura_wood_stairs",
+    "count": 4
+  }
+}

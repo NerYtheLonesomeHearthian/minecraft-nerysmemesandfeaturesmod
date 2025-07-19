@@ -1,0 +1,47 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:glass_pane"
+    },
+    "1": {
+      "item": "minecraft:stained_glass_pane",
+      "data": 32767
+    },
+    "2": {
+      "item": "minecraft:glass_pane"
+    },
+    "3": {
+      "item": "minecraft:stained_glass_pane",
+      "data": 32767
+    },
+    "4": {
+      "item": "minecraft:stained_glass",
+      "data": 32767
+    },
+    "5": {
+      "item": "minecraft:stained_glass_pane",
+      "data": 32767
+    },
+    "6": {
+      "item": "minecraft:glass_pane"
+    },
+    "7": {
+      "item": "minecraft:stained_glass_pane",
+      "data": 32767
+    },
+    "8": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:concentrated_glass",
+    "count": 1
+  }
+}

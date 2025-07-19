@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "nerysfeaturesmod:items/this-guy-turned-a-nokia-3310-into-a-hammer-hd_md5"
+  }
+}

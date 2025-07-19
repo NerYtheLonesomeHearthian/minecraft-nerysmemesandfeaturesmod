@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nerysfeaturesmod:blocks/polished_basalt_top",
+    "up": "nerysfeaturesmod:blocks/polished_basalt_top",
+    "north": "nerysfeaturesmod:blocks/polished_basalt_side",
+    "east": "nerysfeaturesmod:blocks/polished_basalt_side",
+    "south": "nerysfeaturesmod:blocks/polished_basalt_side",
+    "west": "nerysfeaturesmod:blocks/polished_basalt_side",
+    "particle": "nerysfeaturesmod:blocks/polished_basalt_top"
+  }
+}

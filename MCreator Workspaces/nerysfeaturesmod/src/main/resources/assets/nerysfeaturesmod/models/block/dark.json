@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nerysfeaturesmod:blocks/dasrkness",
+    "up": "nerysfeaturesmod:blocks/dasrkness",
+    "north": "nerysfeaturesmod:blocks/dasrkness",
+    "east": "nerysfeaturesmod:blocks/dasrkness",
+    "south": "nerysfeaturesmod:blocks/dasrkness",
+    "west": "nerysfeaturesmod:blocks/dasrkness",
+    "particle": "nerysfeaturesmod:blocks/dasrkness"
+  }
+}

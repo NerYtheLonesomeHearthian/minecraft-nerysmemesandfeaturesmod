@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nerysfeaturesmod:blocks/glass",
+    "up": "nerysfeaturesmod:blocks/glass",
+    "north": "nerysfeaturesmod:blocks/glass",
+    "east": "nerysfeaturesmod:blocks/glass",
+    "south": "nerysfeaturesmod:blocks/glass",
+    "west": "nerysfeaturesmod:blocks/glass",
+    "particle": "nerysfeaturesmod:blocks/glass"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "name": "Slot #0",
+          "x": 408,
+          "y": 133
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "The Strongest Weapon",
+          "color": {
+            "value": -10066177,
+            "falpha": 0.0
+          },
+          "name": "The Strongest Weapon",
+          "x": 322,
+          "y": 83
+        }
+      }
+    ]
+  }
+}

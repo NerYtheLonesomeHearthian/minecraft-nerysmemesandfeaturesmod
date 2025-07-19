@@ -1,0 +1,26 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "powerstep2",
+    "customModelName": "Normal",
+    "name": "Broken Starpower Gem - Step 2",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "stackSize": 8,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 0.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "This is a Broken Starpower Gem. It's the second step for crafting The Power Of The Sun"
+    ],
+    "hasGlow": true
+  }
+}

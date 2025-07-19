@@ -1,0 +1,86 @@
+---- Minecraft Crash Report ----
+// You're mean.
+
+Time: 10/4/21 10:23 PM
+Description: Batching chunks
+
+java.lang.NullPointerException: Batching chunks
+	at net.minecraft.client.renderer.chunk.VisGraph.floodFill(VisGraph.java:80)
+	at net.minecraft.client.renderer.chunk.VisGraph.computeVisibility(VisGraph.java:58)
+	at net.minecraft.client.renderer.chunk.RenderChunk.rebuildChunk(RenderChunk.java:223)
+	at net.minecraft.client.renderer.chunk.ChunkRenderWorker.processTask(ChunkRenderWorker.java:122)
+	at net.minecraft.client.renderer.chunk.ChunkRenderWorker.run(ChunkRenderWorker.java:50)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Client thread
+Stacktrace:
+	at net.minecraft.client.renderer.chunk.VisGraph.floodFill(VisGraph.java:80)
+	at net.minecraft.client.renderer.chunk.VisGraph.computeVisibility(VisGraph.java:58)
+
+-- Affected level --
+Details:
+	Level name: MpServer
+	All players: 1 total; [EntityPlayerSP['Player375'/1944, l='MpServer', x=-253.46, y=115.28, z=171.41]]
+	Chunk stats: MultiplayerChunkCache: 1578, 1578
+	Level seed: 0
+	Level generator: ID 00 - default, ver 1. Features enabled: false
+	Level generator options: 
+	Level spawn location: World: (-262,64,181), Chunk: (at 10,4,5 in -17,11; contains blocks -272,0,176 to -257,255,191), Region: (-1,0; contains chunks -32,0 to -1,31, blocks -512,0,0 to -1,255,511)
+	Level time: 582 game time, 582 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: creative (ID 1). Hardcore: false. Cheats: false
+	Forced entities: 50 total; [EntityItem['item.item.dyePowder.brown'/5277, l='MpServer', x=-191.44, y=78.00, z=188.13], EntityItem['item.item.dyePowder.brown'/5278, l='MpServer', x=-226.27, y=82.00, z=113.02], EntityPlayerSP['Player375'/1944, l='MpServer', x=-253.46, y=115.28, z=171.41], EntityWitherSkeleton['Wither Skeleton'/4908, l='MpServer', x=-313.51, y=87.00, z=151.69], EntityWitherSkeleton['Wither Skeleton'/4909, l='MpServer', x=-310.50, y=84.27, z=164.50], EntityWitherSkeleton['Wither Skeleton'/4910, l='MpServer', x=-311.50, y=87.00, z=166.50], EntityItem['item.item.dyePowder.brown'/5294, l='MpServer', x=-225.88, y=83.00, z=113.03], EntityWitherSkeleton['Wither Skeleton'/4911, l='MpServer', x=-310.50, y=86.00, z=160.50], EntityWitherSkeleton['Wither Skeleton'/4912, l='MpServer', x=-308.50, y=87.00, z=156.50], EntityItem['item.item.dyePowder.brown'/5170, l='MpServer', x=-199.21, y=81.00, z=213.13], EntityWitherSkeleton['Wither Skeleton'/4919, l='MpServer', x=-282.28, y=87.00, z=156.51], EntityBat['Bat'/4920, l='MpServer', x=-284.00, y=89.47, z=204.77], EntityBat['Bat'/4921, l='MpServer', x=-277.25, y=88.00, z=196.25], EntityBat['Bat'/4922, l='MpServer', x=-278.83, y=89.62, z=208.70], EntityBat['Bat'/4923, l='MpServer', x=-277.11, y=97.05, z=214.58], EntityHorse['Horse'/4927, l='MpServer', x=-264.50, y=98.00, z=146.35], EntityHorse['Horse'/4928, l='MpServer', x=-264.50, y=98.00, z=147.68], EntityHorse['Horse'/4929, l='MpServer', x=-268.50, y=96.00, z=147.50], EntityHorse['Horse'/4930, l='MpServer', x=-267.70, y=96.00, z=145.14], EntityHorse['Horse'/4931, l='MpServer', x=-265.91, y=97.00, z=145.50], EntityBat['Bat'/4932, l='MpServer', x=-269.55, y=92.61, z=166.26], EntityBat['Bat'/4933, l='MpServer', x=-265.37, y=101.60, z=170.23], EntityBat['Bat'/4934, l='MpServer', x=-259.24, y=100.99, z=176.43], EntityItem['item.tile.mushroom'/4935, l='MpServer', x=-252.81, y=86.00, z=125.38], EntityItem['item.tile.mushroom'/4936, l='MpServer', x=-251.49, y=88.00, z=122.13], EntityCow['Cow'/4937, l='MpServer', x=-262.50, y=88.00, z=170.50], EntityCow['Cow'/4938, l='MpServer', x=-259.50, y=98.00, z=170.50], EntityIllusionIllager['Illusioner'/4939, l='MpServer', x=-261.44, y=103.00, z=183.22], EntityIllusionIllager['Illusioner'/4940, l='MpServer', x=-259.50, y=101.00, z=180.50], EntityHorse['Horse'/4943, l='MpServer', x=-236.50, y=84.00, z=149.50], EntityHorse['Horse'/4944, l='MpServer', x=-234.50, y=84.00, z=149.50], EntityHorse['Horse'/4945, l='MpServer', x=-235.50, y=84.00, z=147.50], EntityEnderman['Enderman'/4947, l='MpServer', x=-233.50, y=92.00, z=250.50], EntityEnderman['Enderman'/4948, l='MpServer', x=-232.50, y=92.00, z=241.22], EntityEnderman['Enderman'/4949, l='MpServer', x=-232.50, y=92.00, z=240.60], EntityMagmaCube['Magma Cube'/4951, l='MpServer', x=-212.02, y=95.00, z=146.56], EntityMagmaCube['Magma Cube'/4952, l='MpServer', x=-211.64, y=95.00, z=149.26], EntityMagmaCube['Magma Cube'/4953, l='MpServer', x=-206.51, y=97.00, z=149.37], EntityMagmaCube['Magma Cube'/4954, l='MpServer', x=-210.51, y=95.00, z=149.19], EntityItem['item.item.dyePowder.brown'/5082, l='MpServer', x=-191.54, y=78.00, z=186.21], EntityMagmaCube['Magma Cube'/4955, l='MpServer', x=-209.02, y=96.00, z=149.08], EntityItem['item.item.dyePowder.brown'/4956, l='MpServer', x=-205.88, y=91.00, z=225.83], EntityIllusionIllager['Illusioner'/4957, l='MpServer', x=-211.50, y=82.00, z=249.50], EntityIllusionIllager['Illusioner'/4958, l='MpServer', x=-212.50, y=82.00, z=250.50], EntityParrot['Parrot'/4959, l='MpServer', x=-188.50, y=81.00, z=228.50], EntityParrot['Parrot'/4960, l='MpServer', x=-188.50, y=80.00, z=225.50], EntityItem['item.item.dyePowder.brown'/5095, l='MpServer', x=-217.43, y=88.00, z=231.78], EntityBat['Bat'/4968, l='MpServer', x=-177.38, y=113.67, z=142.57], EntityItem['item.item.dyePowder.brown'/5224, l='MpServer', x=-240.31, y=86.00, z=120.07], EntityItem['item.item.dyePowder.brown'/5118, l='MpServer', x=-243.41, y=93.00, z=223.07]]
+	Retry entities: 0 total; []
+	Server brand: fml,forge
+	Server type: Integrated singleplayer server
+Stacktrace:
+	at net.minecraft.client.multiplayer.WorldClient.addWorldInfoToCrashReport(WorldClient.java:461)
+	at net.minecraft.client.Minecraft.addGraphicsAndWorldToCrashReport(Minecraft.java:2888)
+	at net.minecraft.client.renderer.chunk.ChunkRenderWorker.run(ChunkRenderWorker.java:60)
+	at java.lang.Thread.run(Thread.java:748)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_232, BellSoft
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), 
+	Memory: 830354064 bytes (791 MB) / 2105016320 bytes (2007 MB) up to 3779067904 bytes (3604 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 1, tallocated: 14
+	FML: MCP 9.42 Powered by Forge 14.23.5.2768 5 mods loaded, 5 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State     | ID               | Version      | Source                           | Signature |
+	|:--------- |:---------------- |:------------ |:-------------------------------- |:--------- |
+	| UCHIJAAAA | minecraft        | 1.12.2       | minecraft.jar                    | None      |
+	| UCHIJAAAA | mcp              | 9.42         | minecraft.jar                    | None      |
+	| UCHIJAAAA | FML              | 8.0.99.99    | forgeSrc-1.12.2-14.23.5.2768.jar | None      |
+	| UCHIJAAAA | forge            | 14.23.5.2768 | forgeSrc-1.12.2-14.23.5.2768.jar | None      |
+	| UCHIJAAAA | nerysfeaturesmod | 1.0.0        | modid-1.0.jar                    | None      |
+
+	Loaded coremods (and transformers): 
+	GL info: ~~ERROR~~ RuntimeException: No OpenGL context found in the current thread.
+	Launched Version: 1.12.2
+	LWJGL: 2.9.4
+	OpenGL: ~~ERROR~~ RuntimeException: No OpenGL context found in the current thread.
+	GL Caps: Using GL 1.3 multitexturing.
+Using GL 1.3 texture combiners.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Shaders are available because OpenGL 2.1 is supported.
+VBOs are available because OpenGL 1.5 is supported.
+
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Resource Packs: 
+	Current Language: English (US)
+	Profiler Position: N/A (disabled)
+	CPU: 20x Intel(R) Core(TM) i9-10900K CPU @ 3.70GHz

@@ -1,0 +1,42 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:beacon_essence"
+    },
+    "1": {
+      "item": "nerysfeaturesmod:fixed_starpower_gem"
+    },
+    "2": {
+      "item": "nerysfeaturesmod:beacon_essence"
+    },
+    "3": {
+      "item": "nerysfeaturesmod:fixed_starpower_gem"
+    },
+    "4": {
+      "item": "nerysfeaturesmod:concentrated_glass"
+    },
+    "5": {
+      "item": "nerysfeaturesmod:fixed_starpower_gem"
+    },
+    "6": {
+      "item": "nerysfeaturesmod:beacon_essence"
+    },
+    "7": {
+      "item": "nerysfeaturesmod:fixed_starpower_gem"
+    },
+    "8": {
+      "item": "nerysfeaturesmod:beacon_essence"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:cosmos_star",
+    "count": 1
+  }
+}

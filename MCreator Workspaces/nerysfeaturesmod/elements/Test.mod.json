@@ -1,0 +1,59 @@
+{
+  "_fv": 6,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "CUSTOM:Futureblock"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 0.0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Future Portal Igniter",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "futureportaligniter",
+    "portalTexture": "futureportal",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Future"
+      },
+      {
+        "value": "CUSTOM:Nether1"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.GRASS"
+    },
+    "secondaryFillerBlock": {
+      "value": "Blocks.BROWN_MUSHROOM_BLOCK"
+    },
+    "tertiaryFillerBlock": {
+      "value": "Blocks.NETHERRACK"
+    },
+    "fluidBlock": {
+      "value": "Blocks.WATER"
+    },
+    "airColor": {
+      "value": -39220,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": true,
+    "hasWeather": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "dimensionMusic": {
+      "value": "CUSTOM:lo_fi_dimension"
+    }
+  }
+}

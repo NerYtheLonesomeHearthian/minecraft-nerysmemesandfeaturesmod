@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.ANVIL#0"
+      },
+      {
+        "value": "Blocks.ANVIL#0"
+      },
+      {
+        "value": "Blocks.ANVIL#0"
+      },
+      {
+        "value": "Blocks.ANVIL#0"
+      },
+      {
+        "value": "CUSTOM:Powergemstep2"
+      },
+      {
+        "value": "Blocks.ANVIL#0"
+      },
+      {
+        "value": "Blocks.ANVIL#0"
+      },
+      {
+        "value": "Blocks.ANVIL#0"
+      },
+      {
+        "value": "Blocks.ANVIL#0"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:FixedPowergem"
+    },
+    "name": "steppower21",
+    "namespace": "mod"
+  }
+}

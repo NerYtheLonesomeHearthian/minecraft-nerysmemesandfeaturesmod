@@ -1,0 +1,42 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:sun_power_condensation"
+    },
+    "1": {
+      "item": "nerysfeaturesmod:sun_power_condensation"
+    },
+    "2": {
+      "item": "nerysfeaturesmod:sun_power_condensation"
+    },
+    "3": {
+      "item": "nerysfeaturesmod:sun_power_condensation"
+    },
+    "4": {
+      "item": "nerysfeaturesmod:sun_power_condensation"
+    },
+    "5": {
+      "item": "nerysfeaturesmod:sun_power_condensation"
+    },
+    "6": {
+      "item": "nerysfeaturesmod:sun_power_condensation"
+    },
+    "7": {
+      "item": "nerysfeaturesmod:sun_power_condensation"
+    },
+    "8": {
+      "item": "nerysfeaturesmod:sun_power_condensation"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:sun_power_cluster",
+    "count": 1
+  }
+}

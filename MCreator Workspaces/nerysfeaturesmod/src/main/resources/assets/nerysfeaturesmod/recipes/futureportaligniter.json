@@ -1,0 +1,24 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "nerysfeaturesmod:light_ingot"
+    },
+    "4": {
+      "item": "nerysfeaturesmod:golden_sword"
+    },
+    "6": {
+      "item": "nerysfeaturesmod:golden_sword"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:future",
+    "count": 1
+  }
+}

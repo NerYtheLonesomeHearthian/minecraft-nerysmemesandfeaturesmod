@@ -1,0 +1,27 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "2 ",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:sakuraplanks"
+    },
+    "1": {
+      "item": "nerysfeaturesmod:sakuraplanks"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:wooden_hoe",
+    "count": 1
+  }
+}

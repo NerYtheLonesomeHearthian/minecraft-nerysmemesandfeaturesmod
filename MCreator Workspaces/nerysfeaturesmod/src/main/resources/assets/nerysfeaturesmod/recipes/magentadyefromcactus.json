@@ -1,0 +1,14 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "nerysfeaturesmod:magenta_cactus"
+    }
+  ],
+  "result": {
+    "item": "minecraft:dye",
+    "data": 13,
+    "count": 1
+  }
+}

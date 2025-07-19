@@ -1,0 +1,33 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "nerysfeaturesmod:darkrod"
+    },
+    "3": {
+      "item": "nerysfeaturesmod:purified_apple_ingot"
+    },
+    "5": {
+      "item": "nerysfeaturesmod:purified_apple_ingot"
+    },
+    "6": {
+      "item": "nerysfeaturesmod:purified_apple_ingot"
+    },
+    "7": {
+      "item": "nerysfeaturesmod:darkrod"
+    },
+    "8": {
+      "item": "nerysfeaturesmod:purified_apple_ingot"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:purified_appleboots",
+    "count": 1
+  }
+}

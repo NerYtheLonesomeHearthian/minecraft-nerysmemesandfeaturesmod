@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DarkMatter"
+      },
+      {
+        "value": "CUSTOM:DarkMatter"
+      },
+      {
+        "value": "CUSTOM:DarkMatter"
+      },
+      {
+        "value": "CUSTOM:DarkMatter"
+      },
+      {
+        "value": "CUSTOM:DarkMatter"
+      },
+      {
+        "value": "CUSTOM:DarkMatter"
+      },
+      {
+        "value": "CUSTOM:DarkMatter"
+      },
+      {
+        "value": "CUSTOM:DarkMatter"
+      },
+      {
+        "value": "CUSTOM:DarkMatter"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Voidblock"
+    },
+    "name": "darkness",
+    "namespace": "mod"
+  }
+}

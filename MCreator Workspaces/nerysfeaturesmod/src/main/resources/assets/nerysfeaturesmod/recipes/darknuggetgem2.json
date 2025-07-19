@@ -1,0 +1,16 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:dark_diamond"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:dark_diamond_nugget",
+    "count": 9
+  }
+}

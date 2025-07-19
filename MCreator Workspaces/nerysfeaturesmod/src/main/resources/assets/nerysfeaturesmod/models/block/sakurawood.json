@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nerysfeaturesmod:blocks/sakuralogtopebottom",
+    "up": "nerysfeaturesmod:blocks/sakuralogtopebottom",
+    "north": "nerysfeaturesmod:blocks/sakuralogside",
+    "east": "nerysfeaturesmod:blocks/sakuralogside",
+    "south": "nerysfeaturesmod:blocks/sakuralogside",
+    "west": "nerysfeaturesmod:blocks/sakuralogside",
+    "particle": "nerysfeaturesmod:blocks/sakuralogtopebottom"
+  }
+}

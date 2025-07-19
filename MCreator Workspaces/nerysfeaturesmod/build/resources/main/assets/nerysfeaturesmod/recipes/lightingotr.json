@@ -1,0 +1,32 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:light_item"
+    },
+    "1": {
+      "item": "nerysfeaturesmod:light_item"
+    },
+    "2": {
+      "item": "nerysfeaturesmod:light_item"
+    },
+    "3": {
+      "item": "nerysfeaturesmod:light_item"
+    },
+    "4": {
+      "item": "nerysfeaturesmod:light_item"
+    },
+    "5": {
+      "item": "nerysfeaturesmod:light_item"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:light_ingot",
+    "count": 1
+  }
+}

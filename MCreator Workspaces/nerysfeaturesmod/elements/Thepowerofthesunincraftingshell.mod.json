@@ -1,0 +1,26 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "sunpowerincraftingshell",
+    "customModelName": "Normal",
+    "name": "Sun Power in Crafting Shell",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "All of that abnormous power is now inside a Crafting Shell. What crafting will you use this for?"
+    ],
+    "hasGlow": true
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:sun_power_cluster"
+    },
+    "1": {
+      "item": "nerysfeaturesmod:sun_power_cluster"
+    },
+    "2": {
+      "item": "nerysfeaturesmod:sun_power_cluster"
+    },
+    "3": {
+      "item": "nerysfeaturesmod:sun_power_cluster"
+    },
+    "4": {
+      "item": "nerysfeaturesmod:sun_power_cluster"
+    },
+    "5": {
+      "item": "nerysfeaturesmod:sun_power_cluster"
+    },
+    "6": {
+      "item": "nerysfeaturesmod:sun_power_cluster"
+    },
+    "7": {
+      "item": "nerysfeaturesmod:sun_power_cluster"
+    },
+    "8": {
+      "item": "nerysfeaturesmod:sun_power_cluster"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:supremestarpower",
+    "count": 1
+  }
+}

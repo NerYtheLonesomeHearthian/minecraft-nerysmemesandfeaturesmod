@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nerysfeaturesmod:blocks/furnace_top",
+    "up": "nerysfeaturesmod:blocks/goldenstarcanalizertop",
+    "north": "nerysfeaturesmod:blocks/goldenstarcanalizerside",
+    "east": "nerysfeaturesmod:blocks/goldenstarcanalizerside",
+    "south": "nerysfeaturesmod:blocks/goldenstarcanalizerside",
+    "west": "nerysfeaturesmod:blocks/goldenstarcanalizerside",
+    "particle": "nerysfeaturesmod:blocks/furnace_top"
+  }
+}

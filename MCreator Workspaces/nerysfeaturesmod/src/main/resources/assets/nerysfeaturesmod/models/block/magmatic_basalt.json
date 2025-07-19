@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nerysfeaturesmod:blocks/basaltic_magma_top",
+    "up": "nerysfeaturesmod:blocks/basaltic_magma_top",
+    "north": "nerysfeaturesmod:blocks/basaltic_magma_side",
+    "east": "nerysfeaturesmod:blocks/basaltic_magma_side",
+    "south": "nerysfeaturesmod:blocks/basaltic_magma_side",
+    "west": "nerysfeaturesmod:blocks/basaltic_magma_side",
+    "particle": "nerysfeaturesmod:blocks/basaltic_magma_top"
+  }
+}

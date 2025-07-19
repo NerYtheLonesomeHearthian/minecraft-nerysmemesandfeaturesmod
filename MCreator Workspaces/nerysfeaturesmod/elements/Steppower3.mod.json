@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Beaconessence"
+      },
+      {
+        "value": "CUSTOM:FixedPowergem"
+      },
+      {
+        "value": "CUSTOM:Beaconessence"
+      },
+      {
+        "value": "CUSTOM:FixedPowergem"
+      },
+      {
+        "value": "CUSTOM:Concentratedglass"
+      },
+      {
+        "value": "CUSTOM:FixedPowergem"
+      },
+      {
+        "value": "CUSTOM:Beaconessence"
+      },
+      {
+        "value": "CUSTOM:FixedPowergem"
+      },
+      {
+        "value": "CUSTOM:Beaconessence"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Cosmosstarstep3"
+    },
+    "name": "steppower3",
+    "namespace": "mod"
+  }
+}

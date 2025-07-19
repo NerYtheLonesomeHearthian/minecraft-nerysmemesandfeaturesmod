@@ -1,0 +1,29 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:apple_ingot"
+    },
+    "1": {
+      "item": "nerysfeaturesmod:apple_ingot"
+    },
+    "2": {
+      "item": "nerysfeaturesmod:apple_ingot"
+    },
+    "3": {
+      "item": "nerysfeaturesmod:apple_ingot"
+    },
+    "5": {
+      "item": "nerysfeaturesmod:apple_ingot"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:appleingotarmorarmorhelmet",
+    "count": 1
+  }
+}

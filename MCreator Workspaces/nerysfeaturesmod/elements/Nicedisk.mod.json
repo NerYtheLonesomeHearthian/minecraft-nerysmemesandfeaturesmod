@@ -1,0 +1,19 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "nice_disk",
+    "name": "Nice Music Disc",
+    "description": "noice",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:nggyu"
+    },
+    "specialInfo": [
+      "Try it!"
+    ],
+    "hasGlow": true
+  }
+}

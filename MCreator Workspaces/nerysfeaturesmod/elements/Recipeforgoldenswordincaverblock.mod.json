@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DarkMatter"
+      },
+      {
+        "value": "CUSTOM:Platinumnugget"
+      },
+      {
+        "value": "CUSTOM:Powerstep1"
+      },
+      {
+        "value": "Blocks.DROPPER"
+      },
+      {
+        "value": "Blocks.FURNACE"
+      },
+      {
+        "value": "Blocks.DISPENSER"
+      },
+      {
+        "value": "CUSTOM:Powerstep1"
+      },
+      {
+        "value": "Items.DRAGON_BREATH"
+      },
+      {
+        "value": "CUSTOM:DarkMatter"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Incaverblock"
+    },
+    "name": "recipeforgoldenswordincaverblock",
+    "namespace": "mod"
+  }
+}

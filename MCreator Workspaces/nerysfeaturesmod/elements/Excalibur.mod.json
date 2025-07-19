@@ -1,0 +1,29 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "excalibur",
+    "customModelName": "Normal",
+    "name": "The Sacred Sword Excalibur",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 99999,
+    "efficiency": 99999.0,
+    "attackSpeed": 5.0,
+    "enchantability": 99999,
+    "damageVsEntity": 9999.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "onRightClickedInAir": {
+      "name": "ExcaliburRightClickedInAir"
+    },
+    "onEntityHitWith": {
+      "name": "ExcaliburMobIsHitWithTool"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:dark_diamond"
+    },
+    "1": {
+      "item": "nerysfeaturesmod:dark_diamond"
+    },
+    "2": {
+      "item": "nerysfeaturesmod:dark_diamond"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:dark_diamond_pickaxe",
+    "count": 1
+  }
+}

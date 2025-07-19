@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nerysfeaturesmod:blocks/basalt_top",
+    "up": "nerysfeaturesmod:blocks/basalt_top",
+    "north": "nerysfeaturesmod:blocks/basalt_side",
+    "east": "nerysfeaturesmod:blocks/basalt_side",
+    "south": "nerysfeaturesmod:blocks/basalt_side",
+    "west": "nerysfeaturesmod:blocks/basalt_side",
+    "particle": "nerysfeaturesmod:blocks/basalt_top"
+  }
+}

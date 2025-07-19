@@ -1,0 +1,26 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:dark"
+    },
+    "2": {
+      "item": "nerysfeaturesmod:dark"
+    },
+    "3": {
+      "item": "nerysfeaturesmod:dark"
+    },
+    "5": {
+      "item": "nerysfeaturesmod:dark"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:darkboots",
+    "count": 1
+  }
+}

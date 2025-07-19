@@ -1,0 +1,46 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:quartz_block",
+      "data": 32767
+    },
+    "1": {
+      "item": "nerysfeaturesmod:concentrated_glass"
+    },
+    "2": {
+      "item": "minecraft:double_plant",
+      "data": 0
+    },
+    "3": {
+      "item": "minecraft:diamond_block"
+    },
+    "4": {
+      "item": "nerysfeaturesmod:broken_starpower_gem"
+    },
+    "5": {
+      "item": "minecraft:diamond_block"
+    },
+    "6": {
+      "item": "minecraft:double_plant",
+      "data": 0
+    },
+    "7": {
+      "item": "nerysfeaturesmod:concentrated_glass"
+    },
+    "8": {
+      "item": "minecraft:quartz_block",
+      "data": 32767
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:light_item",
+    "count": 1
+  }
+}

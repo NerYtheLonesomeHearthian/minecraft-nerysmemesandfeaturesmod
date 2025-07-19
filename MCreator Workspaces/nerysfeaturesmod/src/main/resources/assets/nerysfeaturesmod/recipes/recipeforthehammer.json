@@ -1,0 +1,42 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:ender_nugget"
+    },
+    "1": {
+      "item": "nerysfeaturesmod:nokia_3310"
+    },
+    "2": {
+      "item": "nerysfeaturesmod:ender_nugget"
+    },
+    "3": {
+      "item": "nerysfeaturesmod:dark"
+    },
+    "4": {
+      "item": "nerysfeaturesmod:incaved_hammer"
+    },
+    "5": {
+      "item": "nerysfeaturesmod:light"
+    },
+    "6": {
+      "item": "nerysfeaturesmod:ender_nugget"
+    },
+    "7": {
+      "item": "nerysfeaturesmod:supremestarpower"
+    },
+    "8": {
+      "item": "nerysfeaturesmod:ender_nugget"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:hammer_of_the_god_of_distruction",
+    "count": 1
+  }
+}

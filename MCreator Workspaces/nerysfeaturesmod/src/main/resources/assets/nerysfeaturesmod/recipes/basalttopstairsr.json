@@ -1,0 +1,33 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "34 ",
+    "6  "
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:basalt"
+    },
+    "1": {
+      "item": "nerysfeaturesmod:basalt"
+    },
+    "2": {
+      "item": "nerysfeaturesmod:basalt"
+    },
+    "3": {
+      "item": "nerysfeaturesmod:basalt"
+    },
+    "4": {
+      "item": "nerysfeaturesmod:basalt"
+    },
+    "6": {
+      "item": "nerysfeaturesmod:basalt"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:basalt_top_stairs",
+    "count": 4
+  }
+}

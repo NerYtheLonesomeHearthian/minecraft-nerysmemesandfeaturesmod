@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nerysfeaturesmod:blocks/purifiedappleblock_animated_4t",
+    "up": "nerysfeaturesmod:blocks/purifiedappleblock_animated_4t",
+    "north": "nerysfeaturesmod:blocks/purifiedappleblock_animated_4t",
+    "east": "nerysfeaturesmod:blocks/purifiedappleblock_animated_4t",
+    "south": "nerysfeaturesmod:blocks/purifiedappleblock_animated_4t",
+    "west": "nerysfeaturesmod:blocks/purifiedappleblock_animated_4t",
+    "particle": "nerysfeaturesmod:blocks/purifiedappleblock_animated_4t"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_side",
+  "textures": {
+    "wall": "nerysfeaturesmod:blocks/beacon",
+    "particle": "nerysfeaturesmod:blocks/beacon"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nerysfeaturesmod:blocks/beacon",
+    "up": "nerysfeaturesmod:blocks/beacon",
+    "north": "nerysfeaturesmod:blocks/beacon",
+    "east": "nerysfeaturesmod:blocks/beacon",
+    "south": "nerysfeaturesmod:blocks/beacon",
+    "west": "nerysfeaturesmod:blocks/beacon",
+    "particle": "nerysfeaturesmod:blocks/beacon"
+  }
+}

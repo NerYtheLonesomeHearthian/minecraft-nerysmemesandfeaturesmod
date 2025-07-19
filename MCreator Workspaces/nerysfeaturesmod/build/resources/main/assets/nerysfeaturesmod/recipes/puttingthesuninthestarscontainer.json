@@ -1,0 +1,42 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:star_container"
+    },
+    "1": {
+      "item": "nerysfeaturesmod:star_container"
+    },
+    "2": {
+      "item": "nerysfeaturesmod:star_container"
+    },
+    "3": {
+      "item": "nerysfeaturesmod:star_container"
+    },
+    "4": {
+      "item": "nerysfeaturesmod:the_sun"
+    },
+    "5": {
+      "item": "nerysfeaturesmod:star_container"
+    },
+    "6": {
+      "item": "nerysfeaturesmod:star_container"
+    },
+    "7": {
+      "item": "nerysfeaturesmod:star_container"
+    },
+    "8": {
+      "item": "nerysfeaturesmod:star_container"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:star_container_witht_sun",
+    "count": 1
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Hammer Incaver",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Hammer Incaver",
+          "x": 362,
+          "y": 86
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:Hammer"
+          },
+          "id": 0,
+          "onTakenFromSlot": {
+            "name": "Procedureforhammerincaver"
+          },
+          "name": "Slot #0",
+          "x": 300,
+          "y": 142
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 1,
+          "name": "Slot #1",
+          "x": 516,
+          "y": 141
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Put and take",
+          "color": {
+            "value": -16776961,
+            "falpha": 0.0
+          },
+          "name": "Put and take",
+          "x": 258,
+          "y": 177
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "back Hammer here",
+          "color": {
+            "value": -16776961,
+            "falpha": 0.0
+          },
+          "name": "back Hammer here",
+          "x": 258,
+          "y": 201
+        }
+      }
+    ]
+  }
+}

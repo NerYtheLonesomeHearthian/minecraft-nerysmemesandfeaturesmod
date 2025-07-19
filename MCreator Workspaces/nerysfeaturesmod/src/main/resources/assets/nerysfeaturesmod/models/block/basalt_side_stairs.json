@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "nerysfeaturesmod:blocks/basalt_side",
+    "top": "nerysfeaturesmod:blocks/basalt_side",
+    "side": "nerysfeaturesmod:blocks/basalt_side"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "nerysfeaturesmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nerysfeaturesmod:dark_cosmos_star"
+    },
+    "1": {
+      "item": "nerysfeaturesmod:dark_cosmos_star"
+    },
+    "2": {
+      "item": "nerysfeaturesmod:dark_cosmos_star"
+    },
+    "3": {
+      "item": "nerysfeaturesmod:dark_cosmos_star"
+    },
+    "4": {
+      "item": "nerysfeaturesmod:dark_cosmos_star"
+    },
+    "5": {
+      "item": "nerysfeaturesmod:dark_cosmos_star"
+    },
+    "6": {
+      "item": "nerysfeaturesmod:dark_cosmos_star"
+    },
+    "7": {
+      "item": "nerysfeaturesmod:dark_cosmos_star"
+    },
+    "8": {
+      "item": "nerysfeaturesmod:dark_cosmos_star"
+    }
+  },
+  "result": {
+    "item": "nerysfeaturesmod:very_dense_dark_cosmos_star",
+    "count": 1
+  }
+}

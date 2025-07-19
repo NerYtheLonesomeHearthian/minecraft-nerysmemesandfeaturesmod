@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "nerysfeaturesmod:basalt"
+    },
+    "facing=south": {
+      "model": "nerysfeaturesmod:basalt"
+    },
+    "facing=north": {
+      "model": "nerysfeaturesmod:basalt"
+    },
+    "facing=east": {
+      "model": "nerysfeaturesmod:basalt",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "nerysfeaturesmod:basalt",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "nerysfeaturesmod:basalt",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "nerysfeaturesmod:basalt",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

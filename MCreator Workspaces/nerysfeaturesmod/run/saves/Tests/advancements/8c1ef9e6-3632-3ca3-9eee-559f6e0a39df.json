@@ -1,0 +1,58 @@
+{
+  "nerysfeaturesmod:powerswordobtained": {
+    "criteria": {
+      "powerswordobtained": "2021-08-07 20:46:58 +0200"
+    },
+    "done": true
+  },
+  "nerysfeaturesmod:finallyastar": {
+    "criteria": {
+      "finallyastar": "2021-08-07 20:46:58 +0200"
+    },
+    "done": true
+  },
+  "nerysfeaturesmod:powersworda": {
+    "criteria": {
+      "powersworda": "2021-08-07 20:46:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2021-08-07 20:46:58 +0200"
+    },
+    "done": true
+  },
+  "nerysfeaturesmod:darkdiamonds": {
+    "criteria": {
+      "darkdiamonds": "2021-08-26 20:17:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2021-08-07 20:46:58 +0200"
+    },
+    "done": true
+  },
+  "nerysfeaturesmod:excalibura": {
+    "criteria": {
+      "excalibura": "2021-08-07 20:46:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2021-05-20 21:08:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2021-05-20 21:08:09 +0200",
+      "forest_hills": "2021-08-07 20:47:23 +0200",
+      "plains": "2021-08-07 20:48:07 +0200"
+    },
+    "done": false
+  }
+}
