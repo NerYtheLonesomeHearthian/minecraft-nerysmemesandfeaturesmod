@@ -71,9 +71,7 @@ New item and food.
 
 - Added Hammer
 
-- Added the Nokia 3310 - really- with Hard Obsidian and Harder Obsidian to craft it. You can make a Hammer out of it, and it's OP. (You will need to craft a new block with new GUI, just like with the Power Sword) 
-
-That hammer does 99999 damage and has 99999 uses (I didn't know how to make it umbreakable), but it's very slow.
+- Added the Nokia 3310 - really- with Hard Obsidian and Harder Obsidian to craft it. You can make a Hammer out of it, and it's OP. (You will need to craft a new block with new GUI, just like with the Power Sword). That hammer does 99999 damage and has 99999 uses (I didn't know how to make it umbreakable), but it's very slow.
 
  
 
