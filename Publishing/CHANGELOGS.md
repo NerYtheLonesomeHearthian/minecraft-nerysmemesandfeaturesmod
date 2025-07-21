@@ -71,9 +71,7 @@ New item and food.
 
 - Added Hammer
 
-- Added the Nokia 3310 - really- with Hard Obsidian and Harder Obsidian to craft it. You can make a Hammer out of it, and it's OP. (You will need to craft a new block with new GUI, just like with the Power Sword) 
-
-That hammer does 99999 damage and has 99999 uses (I didn't know how to make it umbreakable), but it's very slow.
+- Added the Nokia 3310 - really- with Hard Obsidian and Harder Obsidian to craft it. You can make a Hammer out of it, and it's OP. (You will need to craft a new block with new GUI, just like with the Power Sword). That hammer does 99999 damage and has 99999 uses (I didn't know how to make it umbreakable), but it's very slow.
 
  
 
@@ -133,7 +131,7 @@ Now the IDs are a lot better by the way.
 
 - Added Dark Rod, in contrast with Light Rod, used to craft the Purified Apple set.
 
--Added The  S T I C K. You craft it with a Light Rod and a Dark Rod.
+- Added The  S T I C K. You craft it with a Light Rod and a Dark Rod.
 
 - Added The Sage's Staff (with a full-custom model, made on Blockbench). It's a Final Weapon. You craft it with the Nokia 3310, two  S T I C Ks and other rare blocks. It is absolutely OP.
 
