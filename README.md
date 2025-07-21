@@ -6,7 +6,7 @@ This mod was made with MCreator.
 
 
 
-Description (from Curseforge):
+Description (from Curseforge): ↓
 
 This is a mod that I'm only making for fun, so it isn't gonna recive regular updates and because I'm alone and I don't know much about creating mods (I use MCreator) there will probably be things that are made the incorrect way.
 
