@@ -1,6 +1,5 @@
 {
   "display": {
-    "background": "minecraft:textures/blocks/stone.png",
     "icon": {
       "item": "nerysfeaturesmod:incaved_gold_sword"
     },
@@ -24,7 +23,7 @@
             "item": "nerysfeaturesmod:golden_sword_incaver_block",
             "count": {
               "min": 1,
-              "max": 1
+              "max": 999999999999
             }
           }
         ]
@@ -32,6 +31,7 @@
     }
   },
   "rewards": {
-    "experience": 1
-  }
+    "experience": 6000
+  },
+  "parent": "nerysfeaturesmod:darkdiamonds"
 }

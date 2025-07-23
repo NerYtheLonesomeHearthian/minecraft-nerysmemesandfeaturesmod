@@ -52,6 +52,13 @@ New item and food.
 
 
 
+1.6.0.1:
+Version 1.6.0.1 (beta)
+[beta for version 1.6]
+
+
+
+
 1.6:
 - Added nuggets of: Apple, Dark Diamond, Platinum, Ender Pearl and Diamond.
 
@@ -82,6 +89,20 @@ In this version i changed the block & items IDs, so they will disappear from you
 I haven't removed anything, those blocks and items are just unknown to Minecraft, who thinks they are different from the old ones because of the IDs, so he removes them from the world.
 
 Now the IDs are a lot better by the way.
+
+
+
+
+1.7.0.1:
+Version 1.7.0.1 (first 1.7 beta)
+[first beta for version 1.7]
+
+
+
+
+1.7.0.2:
+Version 1.7.0.2 (second 1.7 beta)
+[second beta for version 1.7]
 
 
 
@@ -138,7 +159,7 @@ Now the IDs are a lot better by the way.
 
 
 
-1.8.0.1:
+1.8.1:
 It's the exact same version as 1.8.0 but two names changed.
 
  
@@ -158,3 +179,9 @@ So here is the same changelog:
 - Added The  S T I C K. You craft it with a Light Rod and a Dark Rod.
 
 - Added The Sage's Staff (with a full-custom model, made on Blockbench). It's a Final Weapon. You craft it with the Nokia 3310, two  S T I C Ks and other rare blocks. It is absolutely OP.
+
+
+
+
+1.8.2:
+Adjusted a couple of recipes and added advancements for some milestones. Expect another update like this one soon.

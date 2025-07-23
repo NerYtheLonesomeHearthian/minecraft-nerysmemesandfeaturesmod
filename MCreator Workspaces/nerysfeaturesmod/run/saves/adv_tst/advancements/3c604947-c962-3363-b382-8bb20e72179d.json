@@ -1,0 +1,26 @@
+{
+  "nerysfeaturesmod:nerysfeaturedmodadvstart": {
+    "criteria": {
+      "nerysfeaturedmodadvstart": "2025-07-23 18:25:35 +0200"
+    },
+    "done": true
+  },
+  "nerysfeaturesmod:excalibura": {
+    "criteria": {
+      "excalibura": "2025-07-23 18:25:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "desert": "2025-07-23 18:25:35 +0200"
+    },
+    "done": false
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-07-23 18:25:46 +0200"
+    },
+    "done": true
+  }
+}

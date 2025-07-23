@@ -1,0 +1,20 @@
+{
+  "nerysfeaturesmod:godhammeradv": {
+    "criteria": {
+      "godhammeradv": "2025-07-23 18:10:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "desert": "2025-07-23 18:10:27 +0200"
+    },
+    "done": false
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-07-23 18:10:27 +0200"
+    },
+    "done": true
+  }
+}

@@ -1,99 +1,647 @@
-[22:37:37] [main/INFO] [GradleStart]: Extra: []
-[22:37:37] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/NerY/.mcreator/gradle/caches/minecraft/assets, --assetIndex, 1.12, --accessToken{REDACTED}, --version, 1.12.2, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
-[22:37:37] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[22:37:37] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[22:37:37] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
-[22:37:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
-[22:37:37] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2768 for Minecraft 1.12.2 loading
-[22:37:37] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_232, running on Windows 10:amd64:10.0, installed at C:\Program Files\Pylo\MCreator\jdk\jre
-[22:37:37] [main/ERROR] [FML]: Apache Maven library folder was not in the format expected. Using default libraries directory.
-[22:37:37] [main/ERROR] [FML]: Full: C:\Users\NerY\.mcreator\gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.5.3\7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\maven-artifact-3.5.3.jar
-[22:37:37] [main/ERROR] [FML]: Trimmed: c:/users/nery/.mcreator/gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/
-[22:37:37] [main/INFO] [FML]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
-[22:37:37] [main/INFO] [FML]: Detected deobfuscated environment, loading log configs for colored console logs.
-[22:37:38] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugin
-[22:37:38] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugin
-[22:37:38] [main/INFO] [FML]: Searching C:\Users\NerY\MCreatorWorkspaces\nerysfeaturesmod\run\.\mods for mods
-[22:37:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
-[22:37:38] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
-[22:37:38] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
-[22:37:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[22:37:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[22:37:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
-[22:37:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[22:37:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[22:37:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:37:38] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
-[22:37:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:37:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[22:37:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
-[22:37:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[22:37:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[22:37:38] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
-[22:37:38] [main/INFO] [net.minecraft.client.Minecraft]: Setting user: Player250
-[22:37:39] [main/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
-[22:37:39] [main/INFO] [FML]: -- System Details --
+[18:21:39] [main/INFO] [GradleStart]: Extra: []
+[18:21:39] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/nery/.mcreator/gradle/caches/minecraft/assets, --assetIndex, 1.12, --accessToken{REDACTED}, --version, 1.12.2, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[18:21:39] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[18:21:39] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[18:21:39] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[18:21:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[18:21:39] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2768 for Minecraft 1.12.2 loading
+[18:21:39] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_232, running on Windows 10:amd64:10.0, installed at F:\Program Files\MCreator_old_1-12-2\jdk\jre
+[18:21:39] [main/ERROR] [FML]: Apache Maven library folder was not in the format expected. Using default libraries directory.
+[18:21:39] [main/ERROR] [FML]: Full: C:\Users\nery\.mcreator\gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.5.3\7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\maven-artifact-3.5.3.jar
+[18:21:39] [main/ERROR] [FML]: Trimmed: c:/users/nery/.mcreator/gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/
+[18:21:39] [main/INFO] [FML]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[18:21:39] [main/INFO] [FML]: Detected deobfuscated environment, loading log configs for colored console logs.
+[18:21:39] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugin
+[18:21:39] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugin
+[18:21:39] [main/INFO] [FML]: Searching F:\User Files\Documents\GitHub\minecraft-nerysmemesandfeaturesmod\MCreator Workspaces\nerysfeaturesmod\run\.\mods for mods
+[18:21:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
+[18:21:39] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
+[18:21:39] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+[18:21:39] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:21:39] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:21:39] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[18:21:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:21:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:21:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:21:40] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[18:21:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:21:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:21:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[18:21:40] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:21:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:21:40] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[18:21:40] [main/INFO] [net.minecraft.client.Minecraft]: Setting user: Player390
+[18:21:41] [main/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[18:21:42] [main/INFO] [FML]: -- System Details --
 Details:
 	Minecraft Version: 1.12.2
 	Operating System: Windows 10 (amd64) version 10.0
 	Java Version: 1.8.0_232, BellSoft
 	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), 
-	Memory: 109210440 bytes (104 MB) / 476577792 bytes (454 MB) up to 3779067904 bytes (3604 MB)
+	Memory: 195236304 bytes (186 MB) / 713555968 bytes (680 MB) up to 7596408832 bytes (7244 MB)
 	JVM Flags: 0 total; 
 	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
 	FML: 
 	Loaded coremods (and transformers): 
-	GL info: ' Vendor: 'Intel' Version: '4.6.0 - Build 30.0.100.9805' Renderer: 'Intel(R) UHD Graphics 630'
-[22:37:40] [main/INFO] [FML]: MinecraftForge v14.23.5.2768 Initialized
-[22:37:40] [main/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[22:37:40] [main/INFO] [FML]: Replaced 1036 ore ingredients
-[22:37:40] [main/INFO] [FML]: Searching C:\Users\NerY\MCreatorWorkspaces\nerysfeaturesmod\run\.\mods for mods
-[22:37:40] [main/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
-[22:37:40] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, nerysfeaturesmod] at CLIENT
-[22:37:40] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, nerysfeaturesmod] at SERVER
-[22:37:41] [main/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:NerY's Features Mod
-[22:37:41] [main/INFO] [FML]: Processing ObjectHolder annotations
-[22:37:41] [main/INFO] [FML]: Found 1331 ObjectHolder annotations
-[22:37:41] [main/INFO] [FML]: Identifying ItemStackHolder annotations
-[22:37:41] [main/INFO] [FML]: Found 0 ItemStackHolder annotations
-[22:37:41] [main/INFO] [FML]: Configured a dormant chunk cache size of 0
-[22:37:41] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[22:37:41] [main/INFO] [FML]: OBJLoader: Domain nerysfeaturesmod has been added.
-[22:37:41] [main/INFO] [FML]: Applying holder lookups
-[22:37:41] [main/INFO] [FML]: Holder lookups applied
-[22:37:41] [main/INFO] [FML]: Applying holder lookups
-[22:37:41] [main/INFO] [FML]: Holder lookups applied
-[22:37:41] [main/INFO] [FML]: Applying holder lookups
-[22:37:41] [main/INFO] [FML]: Holder lookups applied
-[22:37:41] [main/INFO] [FML]: Applying holder lookups
-[22:37:41] [main/INFO] [FML]: Holder lookups applied
-[22:37:41] [main/INFO] [FML]: Injecting itemstacks
-[22:37:41] [main/INFO] [FML]: Itemstack injection complete
-[22:37:42] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 33323800 nanos
-[22:37:43] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: OUTDATED Target: 14.23.5.2855
-[22:37:43] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
-[22:37:43] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
-[22:37:43] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[22:37:43] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
-[22:37:43] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
-[22:37:45] [main/INFO] [FML]: Max texture size: 16384
-[22:37:45] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/thepowerofthesunfinaltexture.png with size 17x17 will have visual artifacts at mip level 2, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
-[22:37:45] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/starpowerinjectioadapter.png with size 14x14 will have visual artifacts at mip level 2, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
-[22:37:45] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/thesunkindabetter.png with size 13x13 will have visual artifacts at mip level 2, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
-[22:37:45] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/blocks/2021-08-09_22.54.05.png with size 398x398 will have visual artifacts at mip level 2, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
-[22:37:45] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/darkcosmosstar.png with size 13x13 will have visual artifacts at mip level 2, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
-[22:37:45] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/thesunkindainitial.png with size 13x13 will have visual artifacts at mip level 2, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
-[22:37:45] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/this-guy-turned-a-nokia-3310-into-a-hammer-hd_md5.png with size 594x594 will have visual artifacts at mip level 2, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
-[22:37:45] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/excalibur.png with size 51x51 will have visual artifacts at mip level 2, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
-[22:37:45] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/this-guy-turned-a-nokia-3310-into-a-hammer-hd_mdncaved.png with size 594x594 will have visual artifacts at mip level 2, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
-[22:37:45] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/appleingotbett3r.png with size 25x25 will have visual artifacts at mip level 2, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
-[22:37:45] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/grill1.png with size 258x258 will have visual artifacts at mip level 2, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
-[22:37:45] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/cosmosstarversionemeglio.png with size 13x13 will have visual artifacts at mip level 2, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
-[22:37:45] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/verydensedarkcosmosstar.png with size 13x13 will have visual artifacts at mip level 2, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
-[22:37:45] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/appleingot.png with size 30x30 will have visual artifacts at mip level 2, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
-[22:37:45] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/this-guy-turned-a-nokia-3310-into-a-hammer-hd_mdn2.png with size 594x594 will have visual artifacts at mip level 2, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
-[22:37:45] [main/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 2048x2048 textures-atlas
-[22:37:46] [main/ERROR] [FML]: Parsing error loading recipe nerysfeaturesmod:sakurawoodslab
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 560.94' Renderer: 'NVIDIA GeForce RTX 3090/PCIe/SSE2'
+[18:21:42] [main/INFO] [FML]: MinecraftForge v14.23.5.2768 Initialized
+[18:21:42] [main/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[18:21:42] [main/INFO] [FML]: Replaced 1036 ore ingredients
+[18:21:42] [main/INFO] [FML]: Searching F:\User Files\Documents\GitHub\minecraft-nerysmemesandfeaturesmod\MCreator Workspaces\nerysfeaturesmod\run\.\mods for mods
+[18:21:42] [main/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
+[18:21:42] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, nerysfeaturesmod] at CLIENT
+[18:21:42] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, nerysfeaturesmod] at SERVER
+[18:21:43] [main/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:NerY's Features Mod
+[18:21:43] [main/INFO] [FML]: Processing ObjectHolder annotations
+[18:21:43] [main/INFO] [FML]: Found 1331 ObjectHolder annotations
+[18:21:43] [main/INFO] [FML]: Identifying ItemStackHolder annotations
+[18:21:43] [main/INFO] [FML]: Found 0 ItemStackHolder annotations
+[18:21:43] [main/INFO] [FML]: Configured a dormant chunk cache size of 0
+[18:21:43] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[18:21:43] [main/INFO] [FML]: OBJLoader: Domain nerysfeaturesmod has been added.
+[18:21:43] [main/INFO] [FML]: Applying holder lookups
+[18:21:43] [main/INFO] [FML]: Holder lookups applied
+[18:21:43] [main/INFO] [FML]: Applying holder lookups
+[18:21:43] [main/INFO] [FML]: Holder lookups applied
+[18:21:43] [main/INFO] [FML]: Applying holder lookups
+[18:21:43] [main/INFO] [FML]: Holder lookups applied
+[18:21:43] [main/INFO] [FML]: Applying holder lookups
+[18:21:43] [main/INFO] [FML]: Holder lookups applied
+[18:21:43] [main/INFO] [FML]: Injecting itemstacks
+[18:21:43] [main/INFO] [FML]: Itemstack injection complete
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:ambient.cave
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.anvil.break
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.anvil.destroy
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.anvil.fall
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.anvil.hit
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.anvil.land
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.anvil.place
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.anvil.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.anvil.use
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.brewing_stand.brew
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.chest.close
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.chest.locked
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.chest.open
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.chorus_flower.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.chorus_flower.grow
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.cloth.break
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.cloth.fall
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.cloth.hit
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.cloth.place
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.cloth.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.comparator.click
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.dispenser.dispense
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.dispenser.fail
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.dispenser.launch
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.enchantment_table.use
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.end_gateway.spawn
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.end_portal.spawn
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.end_portal_frame.fill
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.enderchest.close
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.enderchest.open
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.fence_gate.close
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.fence_gate.open
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.fire.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.fire.extinguish
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.furnace.fire_crackle
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.glass.break
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.glass.fall
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.glass.hit
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.glass.place
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.glass.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.grass.break
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.grass.fall
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.grass.hit
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.grass.place
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.grass.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.gravel.break
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.gravel.fall
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.gravel.hit
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.gravel.place
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.gravel.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.iron_door.close
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.iron_door.open
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.iron_trapdoor.close
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.iron_trapdoor.open
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.ladder.break
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.ladder.fall
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.ladder.hit
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.ladder.place
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.ladder.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.lava.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.lava.extinguish
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.lava.pop
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.lever.click
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.metal.break
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.metal.fall
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.metal.hit
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.metal.place
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.metal.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.metal_pressureplate.click_off
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.metal_pressureplate.click_on
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.note.basedrum
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.note.bass
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.note.bell
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.note.chime
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.note.flute
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.note.guitar
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.note.harp
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.note.hat
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.note.pling
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.note.snare
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.note.xylophone
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.piston.contract
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.piston.extend
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.portal.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.portal.travel
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.portal.trigger
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.redstone_torch.burnout
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.sand.break
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.sand.fall
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.sand.hit
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.sand.place
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.sand.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.shulker_box.close
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.shulker_box.open
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.slime.break
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.slime.fall
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.slime.hit
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.slime.place
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.slime.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.snow.break
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.snow.fall
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.snow.hit
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.snow.place
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.snow.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.stone.break
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.stone.fall
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.stone.hit
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.stone.place
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.stone.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.stone_button.click_off
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.stone_button.click_on
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.stone_pressureplate.click_off
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.stone_pressureplate.click_on
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.tripwire.attach
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.tripwire.click_off
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.tripwire.click_on
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.tripwire.detach
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.water.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.waterlily.place
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.wood.break
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.wood.fall
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.wood.hit
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.wood.place
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.wood.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.wood_button.click_off
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.wood_button.click_on
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.wood_pressureplate.click_off
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.wood_pressureplate.click_on
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.wooden_door.close
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.wooden_door.open
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.wooden_trapdoor.close
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.wooden_trapdoor.open
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:enchant.thorns.hit
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.armorstand.break
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.armorstand.fall
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.armorstand.hit
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.armorstand.place
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.arrow.hit
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.arrow.hit_player
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.arrow.shoot
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.bat.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.bat.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.bat.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.bat.loop
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.bat.takeoff
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.blaze.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.blaze.burn
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.blaze.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.blaze.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.blaze.shoot
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.boat.paddle_land
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.boat.paddle_water
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.bobber.retrieve
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.bobber.splash
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.bobber.throw
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.cat.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.cat.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.cat.hiss
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.cat.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.cat.purr
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.cat.purreow
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.chicken.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.chicken.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.chicken.egg
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.chicken.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.chicken.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.cow.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.cow.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.cow.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.cow.milk
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.cow.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.creeper.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.creeper.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.creeper.primed
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.donkey.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.donkey.angry
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.donkey.chest
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.donkey.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.donkey.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.egg.throw
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.elder_guardian.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.elder_guardian.ambient_land
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.elder_guardian.curse
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.elder_guardian.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.elder_guardian.death_land
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.elder_guardian.flop
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.elder_guardian.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.elder_guardian.hurt_land
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.enderdragon.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.enderdragon.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.enderdragon.flap
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.enderdragon.growl
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.enderdragon.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.enderdragon.shoot
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.enderdragon_fireball.explode
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.endereye.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.endereye.launch
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.endermen.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.endermen.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.endermen.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.endermen.scream
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.endermen.stare
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.endermen.teleport
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.endermite.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.endermite.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.endermite.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.endermite.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.enderpearl.throw
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.evocation_fangs.attack
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.evocation_illager.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.evocation_illager.cast_spell
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.evocation_illager.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.evocation_illager.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.evocation_illager.prepare_attack
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.evocation_illager.prepare_summon
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.evocation_illager.prepare_wololo
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.experience_bottle.throw
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.experience_orb.pickup
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.firework.blast
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.firework.blast_far
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.firework.large_blast
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.firework.large_blast_far
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.firework.launch
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.firework.shoot
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.firework.twinkle
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.firework.twinkle_far
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.generic.big_fall
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.generic.burn
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.generic.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.generic.drink
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.generic.eat
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.generic.explode
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.generic.extinguish_fire
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.generic.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.generic.small_fall
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.generic.splash
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.generic.swim
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.ghast.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.ghast.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.ghast.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.ghast.scream
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.ghast.shoot
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.ghast.warn
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.guardian.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.guardian.ambient_land
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.guardian.attack
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.guardian.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.guardian.death_land
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.guardian.flop
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.guardian.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.guardian.hurt_land
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.horse.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.horse.angry
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.horse.armor
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.horse.breathe
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.horse.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.horse.eat
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.horse.gallop
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.horse.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.horse.jump
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.horse.land
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.horse.saddle
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.horse.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.horse.step_wood
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.hostile.big_fall
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.hostile.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.hostile.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.hostile.small_fall
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.hostile.splash
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.hostile.swim
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.husk.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.husk.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.husk.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.husk.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.illusion_illager.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.illusion_illager.cast_spell
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.illusion_illager.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.illusion_illager.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.illusion_illager.mirror_move
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.illusion_illager.prepare_blindness
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.illusion_illager.prepare_mirror
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.irongolem.attack
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.irongolem.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.irongolem.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.irongolem.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.item.break
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.item.pickup
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.itemframe.add_item
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.itemframe.break
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.itemframe.place
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.itemframe.remove_item
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.itemframe.rotate_item
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.leashknot.break
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.leashknot.place
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.lightning.impact
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.lightning.thunder
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.lingeringpotion.throw
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.llama.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.llama.angry
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.llama.chest
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.llama.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.llama.eat
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.llama.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.llama.spit
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.llama.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.llama.swag
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.magmacube.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.magmacube.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.magmacube.jump
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.magmacube.squish
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.minecart.inside
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.minecart.riding
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.mooshroom.shear
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.mule.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.mule.chest
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.mule.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.mule.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.painting.break
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.painting.place
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.eat
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.fly
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.blaze
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.creeper
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.elder_guardian
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.enderdragon
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.enderman
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.endermite
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.evocation_illager
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.ghast
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.husk
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.illusion_illager
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.magmacube
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.polar_bear
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.shulker
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.silverfish
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.skeleton
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.slime
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.spider
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.stray
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.vex
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.vindication_illager
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.witch
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.wither
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.wither_skeleton
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.wolf
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.zombie
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.zombie_pigman
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.zombie_villager
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.pig.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.pig.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.pig.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.pig.saddle
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.pig.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.attack.crit
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.attack.knockback
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.attack.nodamage
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.attack.strong
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.attack.sweep
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.attack.weak
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.big_fall
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.breath
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.burp
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.hurt_drown
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.hurt_on_fire
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.levelup
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.small_fall
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.splash
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.swim
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.polar_bear.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.polar_bear.baby_ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.polar_bear.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.polar_bear.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.polar_bear.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.polar_bear.warning
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.rabbit.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.rabbit.attack
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.rabbit.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.rabbit.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.rabbit.jump
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.sheep.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.sheep.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.sheep.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.sheep.shear
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.sheep.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.shulker.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.shulker.close
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.shulker.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.shulker.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.shulker.hurt_closed
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.shulker.open
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.shulker.shoot
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.shulker.teleport
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.shulker_bullet.hit
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.shulker_bullet.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.silverfish.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.silverfish.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.silverfish.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.silverfish.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.skeleton.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.skeleton.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.skeleton.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.skeleton.shoot
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.skeleton.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.skeleton_horse.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.skeleton_horse.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.skeleton_horse.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.slime.attack
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.slime.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.slime.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.slime.jump
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.slime.squish
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.small_magmacube.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.small_magmacube.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.small_magmacube.squish
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.small_slime.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.small_slime.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.small_slime.jump
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.small_slime.squish
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.snowball.throw
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.snowman.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.snowman.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.snowman.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.snowman.shoot
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.spider.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.spider.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.spider.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.spider.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.splash_potion.break
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.splash_potion.throw
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.squid.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.squid.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.squid.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.stray.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.stray.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.stray.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.stray.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.tnt.primed
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.vex.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.vex.charge
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.vex.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.vex.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.villager.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.villager.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.villager.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.villager.no
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.villager.trading
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.villager.yes
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.vindication_illager.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.vindication_illager.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.vindication_illager.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.witch.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.witch.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.witch.drink
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.witch.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.witch.throw
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wither.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wither.break_block
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wither.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wither.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wither.shoot
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wither.spawn
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wither_skeleton.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wither_skeleton.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wither_skeleton.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wither_skeleton.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wolf.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wolf.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wolf.growl
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wolf.howl
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wolf.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wolf.pant
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wolf.shake
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wolf.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wolf.whine
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie.attack_door_wood
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie.attack_iron_door
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie.break_door_wood
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie.infect
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie_horse.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie_horse.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie_horse.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie_pig.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie_pig.angry
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie_pig.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie_pig.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie_villager.ambient
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie_villager.converted
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie_villager.cure
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie_villager.death
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie_villager.hurt
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie_villager.step
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.armor.equip_chain
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.armor.equip_diamond
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.armor.equip_elytra
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.armor.equip_generic
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.armor.equip_gold
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.armor.equip_iron
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.armor.equip_leather
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.bottle.empty
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.bottle.fill
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.bottle.fill_dragonbreath
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.bucket.empty
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.bucket.empty_lava
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.bucket.fill
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.bucket.fill_lava
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.chorus_fruit.teleport
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.elytra.flying
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.firecharge.use
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.flintandsteel.use
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.hoe.till
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.shield.block
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.shield.break
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.shovel.flatten
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.totem.use
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:music.creative
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:music.credits
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:music.dragon
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:music.end
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:music.game
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:music.menu
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:music.nether
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:record.11
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:record.13
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:record.blocks
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:record.cat
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:record.chirp
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:record.far
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:record.mall
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:record.mellohi
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:record.stal
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:record.strad
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:record.wait
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:record.ward
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:ui.button.click
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:ui.toast.in
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:ui.toast.out
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:ui.toast.challenge_complete
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:weather.rain
+[18:21:43] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:weather.rain.above
+[18:21:44] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[18:21:44] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 79941300 nanos
+[18:21:44] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[18:21:44] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[18:21:44] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[18:21:44] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[18:21:47] [main/INFO] [FML]: Max texture size: 16384
+[18:21:47] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/thepowerofthesunfinaltexture.png with size 17x17 will have visual artifacts at mip level 2, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:21:47] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/starpowerinjectioadapter.png with size 14x14 will have visual artifacts at mip level 2, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:21:47] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/thesunkindabetter.png with size 13x13 will have visual artifacts at mip level 2, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:21:47] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/blocks/2021-08-09_22.54.05.png with size 398x398 will have visual artifacts at mip level 2, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:21:47] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/darkcosmosstar.png with size 13x13 will have visual artifacts at mip level 2, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:21:47] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/thesunkindainitial.png with size 13x13 will have visual artifacts at mip level 2, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:21:47] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/this-guy-turned-a-nokia-3310-into-a-hammer-hd_md5.png with size 594x594 will have visual artifacts at mip level 2, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:21:47] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/excalibur.png with size 51x51 will have visual artifacts at mip level 2, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:21:47] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/this-guy-turned-a-nokia-3310-into-a-hammer-hd_mdncaved.png with size 594x594 will have visual artifacts at mip level 2, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:21:47] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/appleingotbett3r.png with size 25x25 will have visual artifacts at mip level 2, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:21:47] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/grill1.png with size 258x258 will have visual artifacts at mip level 2, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:21:47] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/cosmosstarversionemeglio.png with size 13x13 will have visual artifacts at mip level 2, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:21:47] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/verydensedarkcosmosstar.png with size 13x13 will have visual artifacts at mip level 2, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:21:47] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/appleingot.png with size 30x30 will have visual artifacts at mip level 2, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:21:47] [main/WARN] [net.minecraft.client.renderer.texture.TextureMap]: Texture nerysfeaturesmod:textures/items/this-guy-turned-a-nokia-3310-into-a-hammer-hd_mdn2.png with size 594x594 will have visual artifacts at mip level 2, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:21:47] [main/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 2048x2048 textures-atlas
+[18:21:48] [main/ERROR] [FML]: Parsing error loading recipe nerysfeaturesmod:sakurawoodslab
 com.google.gson.JsonParseException: Missing data for item 'nerysfeaturesmod:sakura_wood_slab'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:215) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:516) ~[CraftingHelper.class:?]
@@ -120,7 +668,7 @@ com.google.gson.JsonParseException: Missing data for item 'nerysfeaturesmod:saku
 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_232]
 	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
 	at GradleStart.main(GradleStart.java:25) [start/:?]
-[22:37:46] [main/ERROR] [FML]: Parsing error loading recipe nerysfeaturesmod:recipeforthestarcontainer
+[18:21:48] [main/ERROR] [FML]: Parsing error loading recipe nerysfeaturesmod:recipeforthestarcontainer
 com.google.gson.JsonParseException: Missing data for item 'nerysfeaturesmod:beacon_essence_slab'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:263) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:537) ~[CraftingHelper.class:?]
@@ -149,7 +697,7 @@ com.google.gson.JsonParseException: Missing data for item 'nerysfeaturesmod:beac
 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_232]
 	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
 	at GradleStart.main(GradleStart.java:25) [start/:?]
-[22:37:46] [main/ERROR] [FML]: Parsing error loading recipe nerysfeaturesmod:recipeforbeaconessenceslab
+[18:21:48] [main/ERROR] [FML]: Parsing error loading recipe nerysfeaturesmod:recipeforbeaconessenceslab
 com.google.gson.JsonParseException: Missing data for item 'nerysfeaturesmod:beacon_essence_slab'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:215) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:516) ~[CraftingHelper.class:?]
@@ -176,7 +724,7 @@ com.google.gson.JsonParseException: Missing data for item 'nerysfeaturesmod:beac
 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_232]
 	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
 	at GradleStart.main(GradleStart.java:25) [start/:?]
-[22:37:46] [main/ERROR] [FML]: Parsing error loading recipe nerysfeaturesmod:netherslabr
+[18:21:48] [main/ERROR] [FML]: Parsing error loading recipe nerysfeaturesmod:netherslabr
 com.google.gson.JsonParseException: Missing data for item 'nerysfeaturesmod:nether_slab'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:215) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:516) ~[CraftingHelper.class:?]
@@ -203,7 +751,7 @@ com.google.gson.JsonParseException: Missing data for item 'nerysfeaturesmod:neth
 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_232]
 	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
 	at GradleStart.main(GradleStart.java:25) [start/:?]
-[22:37:46] [main/ERROR] [FML]: Parsing error loading recipe nerysfeaturesmod:futurewoodslab
+[18:21:48] [main/ERROR] [FML]: Parsing error loading recipe nerysfeaturesmod:futurewoodslab
 com.google.gson.JsonParseException: Missing data for item 'nerysfeaturesmod:future_wood_slab'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:215) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:516) ~[CraftingHelper.class:?]
@@ -230,7 +778,7 @@ com.google.gson.JsonParseException: Missing data for item 'nerysfeaturesmod:futu
 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_232]
 	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
 	at GradleStart.main(GradleStart.java:25) [start/:?]
-[22:37:46] [main/ERROR] [FML]: Parsing error loading recipe nerysfeaturesmod:basalttopslabr
+[18:21:48] [main/ERROR] [FML]: Parsing error loading recipe nerysfeaturesmod:basalttopslabr
 com.google.gson.JsonParseException: Missing data for item 'nerysfeaturesmod:basalt_top_slab'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:215) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:516) ~[CraftingHelper.class:?]
@@ -257,7 +805,7 @@ com.google.gson.JsonParseException: Missing data for item 'nerysfeaturesmod:basa
 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_232]
 	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
 	at GradleStart.main(GradleStart.java:25) [start/:?]
-[22:37:46] [main/ERROR] [FML]: Parsing error loading recipe nerysfeaturesmod:basaltsideslabr
+[18:21:48] [main/ERROR] [FML]: Parsing error loading recipe nerysfeaturesmod:basaltsideslabr
 com.google.gson.JsonParseException: Missing data for item 'nerysfeaturesmod:basalt_side_slab'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:215) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:516) ~[CraftingHelper.class:?]
@@ -284,82 +832,157 @@ com.google.gson.JsonParseException: Missing data for item 'nerysfeaturesmod:basa
 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_232]
 	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
 	at GradleStart.main(GradleStart.java:25) [start/:?]
-[22:37:46] [main/INFO] [FML]: Applying holder lookups
-[22:37:46] [main/INFO] [FML]: Holder lookups applied
-[22:37:46] [main/INFO] [FML]: Injecting itemstacks
-[22:37:46] [main/INFO] [FML]: Itemstack injection complete
-[22:37:46] [main/INFO] [FML]: Forge Mod Loader has successfully loaded 5 mods
-[22:37:46] [main/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
-[22:37:47] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient]: Could not authorize you against Realms server: Invalid session id
-[22:37:48] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Starting integrated minecraft server version 1.12.2
-[22:37:48] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Generating keypair
-[22:37:48] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:netherslab
-[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:hammerincaver
-[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:netherplanks
-[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:platinumore
-[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:concentratedglass
-[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:darkdiamondoreblock
-[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:goldenstarcanalizer
-[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:sakuralog
-[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:beaconessenceslab
-[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:darkdiamondore
-[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:netherslab_double
-[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:netherfrence
-[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:magentacactus
-[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:beaconessenceslab_double
-[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:futuretreeplanks
-[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:sakura
-[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:voidblock
-[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:incaverblock
-[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:futureblock
-[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:platinumoreblock
-[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:sakuraplanksslab_double
-[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:sakuraplanksslab
-[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:strongestweaponresieder
-[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:test_portal
-[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:sakurasapling
-[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:newtreeleaves
-[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:beaconessencestairs
-[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:futurewoodstairs
-[22:37:48] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world nerysfeaturesmod:enderpearlblock
-[22:37:48] [Server thread/INFO] [FML]: Applying holder lookups
-[22:37:48] [Server thread/INFO] [FML]: Holder lookups applied
-[22:37:48] [Server thread/INFO] [FML]: Loading dimension 0 (Tests) (net.minecraft.server.integrated.IntegratedServer@6b7b19f)
-[22:37:48] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 493 advancements
-[22:37:48] [Server thread/INFO] [FML]: Loading dimension -1 (Tests) (net.minecraft.server.integrated.IntegratedServer@6b7b19f)
-[22:37:48] [Server thread/INFO] [FML]: Loading dimension 1 (Tests) (net.minecraft.server.integrated.IntegratedServer@6b7b19f)
-[22:37:48] [Server thread/INFO] [FML]: Loading dimension 3 (Tests) (net.minecraft.server.integrated.IntegratedServer@6b7b19f)
-[22:37:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[22:37:49] [Server thread/INFO] [FML]: Unloading dimension -1
-[22:37:49] [Server thread/INFO] [FML]: Unloading dimension 1
-[22:37:49] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Changing view distance to 7, from 10
-[22:37:50] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
-[22:37:50] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
-[22:37:50] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,nerysfeaturesmod@1.7.0,FML@8.0.99.99,forge@14.23.5.2768,mcp@9.42
-[22:37:50] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
-[22:37:50] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[22:37:50] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Player250[local:E:bac426cc] logged in with entity id 572 at (265.86767503061003, 99.75178390334713, 242.8298093347188)
-[22:37:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player250 joined the game
-[22:37:51] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
-[22:37:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Tests'/overworld
-[22:37:51] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 13 advancements
-[22:37:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Tests'/future
-[22:38:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player250: Changing to clear weather]
-[22:38:37] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Changing to clear weather
-[22:42:42] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Saved screenshot as 2021-11-08_22.42.42.png
-[22:42:49] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
-[22:42:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Tests'/overworld
-[22:42:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Tests'/future
-[22:44:00] [main/INFO] [net.minecraft.client.Minecraft]: Stopping!
-[22:44:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[22:44:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[22:44:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[22:44:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Tests'/overworld
-[22:44:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Tests'/future
-[22:44:00] [Server thread/INFO] [FML]: Unloading dimension 0
-[22:44:00] [Server thread/INFO] [FML]: Unloading dimension 3
-[22:44:00] [Server thread/INFO] [FML]: Applying holder lookups
-[22:44:00] [Server thread/INFO] [FML]: Holder lookups applied
-[22:44:00] [main/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
-[22:44:01] [main/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com
+[18:21:48] [main/INFO] [FML]: Applying holder lookups
+[18:21:48] [main/INFO] [FML]: Holder lookups applied
+[18:21:48] [main/INFO] [FML]: Injecting itemstacks
+[18:21:48] [main/INFO] [FML]: Itemstack injection complete
+[18:21:48] [main/INFO] [FML]: Forge Mod Loader has successfully loaded 5 mods
+[18:21:48] [main/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[18:21:48] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient]: Could not authorize you against Realms server: java.lang.RuntimeException: Failed to parse into SignedJWT: FML
+[18:21:52] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Starting integrated minecraft server version 1.12.2
+[18:21:52] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Generating keypair
+[18:21:52] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[18:21:52] [Server thread/INFO] [FML]: Applying holder lookups
+[18:21:52] [Server thread/INFO] [FML]: Holder lookups applied
+[18:21:52] [Server thread/INFO] [FML]: Loading dimension 0 (adv_tst) (net.minecraft.server.integrated.IntegratedServer@48c039b9)
+[18:21:52] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 495 advancements
+[18:21:52] [Server thread/INFO] [FML]: Loading dimension -1 (adv_tst) (net.minecraft.server.integrated.IntegratedServer@48c039b9)
+[18:21:52] [Server thread/INFO] [FML]: Loading dimension 1 (adv_tst) (net.minecraft.server.integrated.IntegratedServer@48c039b9)
+[18:21:52] [Server thread/INFO] [FML]: Loading dimension 3 (adv_tst) (net.minecraft.server.integrated.IntegratedServer@48c039b9)
+[18:21:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[18:21:53] [Server thread/INFO] [FML]: Unloading dimension -1
+[18:21:53] [Server thread/INFO] [FML]: Unloading dimension 1
+[18:21:53] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Changing view distance to 5, from 10
+[18:21:54] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
+[18:21:54] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[18:21:54] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,nerysfeaturesmod@1.7.0,FML@8.0.99.99,forge@14.23.5.2768,mcp@9.42
+[18:21:54] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
+[18:21:54] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:21:54] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Player390[local:E:c452c668] logged in with entity id 214 at (144.72015286033934, 70.0, 73.43968977416839)
+[18:21:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player390 joined the game
+[18:21:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player390 has completed the challenge [Thor who?]
+[18:21:54] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[18:21:54] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Player390 has completed the challenge [Thor who?]
+[18:21:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'adv_tst'/overworld
+[18:21:55] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 8 advancements
+[18:21:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'adv_tst'/future
+[18:21:59] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[18:21:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'adv_tst'/overworld
+[18:21:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'adv_tst'/future
+[18:22:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player390 has completed the challenge [Power Sword Obtained]
+[18:22:08] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Player390 has completed the challenge [Power Sword Obtained]
+[18:22:08] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 10 advancements
+[18:22:11] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[18:22:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'adv_tst'/overworld
+[18:22:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'adv_tst'/future
+[18:22:22] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player390 has completed the challenge [The Sacred Sword]
+[18:22:22] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Player390 has completed the challenge [The Sacred Sword]
+[18:22:22] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 10 advancements
+[18:22:25] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[18:22:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'adv_tst'/overworld
+[18:22:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'adv_tst'/future
+[18:22:50] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 17 advancements
+[18:24:04] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[18:24:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'adv_tst'/overworld
+[18:24:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'adv_tst'/future
+[18:24:29] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[18:24:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'adv_tst'/overworld
+[18:24:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'adv_tst'/future
+[18:25:05] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /?, /advancement, /blockdata, /clear, /clone, /debug, /defaultgamemode, /difficulty, /effect, /enchant, /entitydata, /execute, /fill, /forge, /function, /gamemode, /gamerule, /give, /help, /kill, /locate, /me, /msg, /particle, /playsound, /publish, /recipe, /reload, /replaceitem, /say, /scoreboard, /seed, /setblock, /setworldspawn, /spawnpoint, /spreadplayers, /stats, /stopsound, /summon, /teleport, /tell, /tellraw, /testfor, /testforblock, /testforblocks, /time, /title, /toggledownfall, /tp, /trigger, /w, /weather, /worldborder, /xp
+[18:25:18] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] grant, revoke, test
+[18:25:26] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /advancement revoke <player> <only|until|from|through|everything>
+[18:25:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player390: Revoked every advancement (12 total revoked) from Player390]
+[18:25:35] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Revoked every advancement (12 total revoked) from Player390
+[18:25:35] [main/INFO] [net.minecraft.advancements.AdvancementList]: Forgot about advancement minecraft:recipes/transportation/acacia_boat
+[18:25:35] [main/INFO] [net.minecraft.advancements.AdvancementList]: Forgot about advancement nerysfeaturesmod:excalibura
+[18:25:35] [main/INFO] [net.minecraft.advancements.AdvancementList]: Forgot about advancement nerysfeaturesmod:powerswordobtained
+[18:25:35] [main/WARN] [net.minecraft.advancements.AdvancementList]: Told to remove advancement nerysfeaturesmod:excalibura but I don't know what that is
+[18:25:35] [main/INFO] [net.minecraft.advancements.AdvancementList]: Forgot about advancement minecraft:recipes/transportation/boat
+[18:25:35] [main/INFO] [net.minecraft.advancements.AdvancementList]: Forgot about advancement nerysfeaturesmod:godhammeradv
+[18:25:35] [main/INFO] [net.minecraft.advancements.AdvancementList]: Forgot about advancement minecraft:recipes/transportation/spruce_boat
+[18:25:35] [main/INFO] [net.minecraft.advancements.AdvancementList]: Forgot about advancement minecraft:recipes/transportation/birch_boat
+[18:25:35] [main/INFO] [net.minecraft.advancements.AdvancementList]: Forgot about advancement minecraft:story/upgrade_tools
+[18:25:35] [main/INFO] [net.minecraft.advancements.AdvancementList]: Forgot about advancement minecraft:story/mine_stone
+[18:25:35] [main/INFO] [net.minecraft.advancements.AdvancementList]: Forgot about advancement minecraft:story/root
+[18:25:35] [main/WARN] [net.minecraft.advancements.AdvancementList]: Told to remove advancement minecraft:story/mine_stone but I don't know what that is
+[18:25:35] [main/WARN] [net.minecraft.advancements.AdvancementList]: Told to remove advancement minecraft:story/upgrade_tools but I don't know what that is
+[18:25:35] [main/INFO] [net.minecraft.advancements.AdvancementList]: Forgot about advancement minecraft:recipes/transportation/jungle_boat
+[18:25:35] [main/INFO] [net.minecraft.advancements.AdvancementList]: Forgot about advancement minecraft:recipes/transportation/dark_oak_boat
+[18:25:35] [main/INFO] [net.minecraft.advancements.AdvancementList]: Forgot about advancement minecraft:recipes/transportation/acacia_boat
+[18:25:35] [main/INFO] [net.minecraft.advancements.AdvancementList]: Forgot about advancement minecraft:recipes/transportation/dark_oak_boat
+[18:25:35] [main/INFO] [net.minecraft.advancements.AdvancementList]: Forgot about advancement minecraft:recipes/transportation/birch_boat
+[18:25:35] [main/INFO] [net.minecraft.advancements.AdvancementList]: Forgot about advancement minecraft:recipes/transportation/boat
+[18:25:35] [main/INFO] [net.minecraft.advancements.AdvancementList]: Forgot about advancement minecraft:recipes/transportation/jungle_boat
+[18:25:35] [main/INFO] [net.minecraft.advancements.AdvancementList]: Forgot about advancement minecraft:recipes/transportation/spruce_boat
+[18:25:35] [main/INFO] [net.minecraft.advancements.AdvancementList]: Forgot about advancement minecraft:recipes/root
+[18:25:35] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 4 advancements
+[18:25:36] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[18:25:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'adv_tst'/overworld
+[18:25:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'adv_tst'/future
+[18:25:43] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[18:25:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'adv_tst'/overworld
+[18:25:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'adv_tst'/future
+[18:25:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player390 has completed the challenge [The Sacred Sword]
+[18:25:46] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Player390 has completed the challenge [The Sacred Sword]
+[18:25:46] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 9 advancements
+[18:25:47] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[18:25:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'adv_tst'/overworld
+[18:25:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'adv_tst'/future
+[18:27:10] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[18:27:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'adv_tst'/overworld
+[18:27:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'adv_tst'/future
+[18:27:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:27:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[18:27:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Player390 lost connection: Disconnected
+[18:27:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player390 left the game
+[18:27:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Stopping singleplayer server as player logged out
+[18:27:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[18:27:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'adv_tst'/overworld
+[18:27:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'adv_tst'/future
+[18:27:11] [Server thread/INFO] [FML]: Unloading dimension 0
+[18:27:11] [Server thread/INFO] [FML]: Unloading dimension 3
+[18:27:11] [Server thread/INFO] [FML]: Applying holder lookups
+[18:27:11] [Server thread/INFO] [FML]: Holder lookups applied
+[18:27:13] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Starting integrated minecraft server version 1.12.2
+[18:27:13] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Generating keypair
+[18:27:13] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[18:27:14] [Server thread/INFO] [FML]: Applying holder lookups
+[18:27:14] [Server thread/INFO] [FML]: Holder lookups applied
+[18:27:14] [Server thread/INFO] [FML]: Loading dimension 0 (adv_tst) (net.minecraft.server.integrated.IntegratedServer@507a0bec)
+[18:27:14] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 495 advancements
+[18:27:14] [Server thread/INFO] [FML]: Loading dimension -1 (adv_tst) (net.minecraft.server.integrated.IntegratedServer@507a0bec)
+[18:27:14] [Server thread/INFO] [FML]: Loading dimension 1 (adv_tst) (net.minecraft.server.integrated.IntegratedServer@507a0bec)
+[18:27:14] [Server thread/INFO] [FML]: Loading dimension 3 (adv_tst) (net.minecraft.server.integrated.IntegratedServer@507a0bec)
+[18:27:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[18:27:14] [Server thread/INFO] [FML]: Unloading dimension -1
+[18:27:14] [Server thread/INFO] [FML]: Unloading dimension 1
+[18:27:14] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Changing view distance to 5, from 10
+[18:27:15] [Netty Local Client IO #1/INFO] [FML]: Server protocol version 2
+[18:27:15] [Netty Server IO #3/INFO] [FML]: Client protocol version 2
+[18:27:15] [Netty Server IO #3/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,nerysfeaturesmod@1.7.0,FML@8.0.99.99,forge@14.23.5.2768,mcp@9.42
+[18:27:15] [Netty Local Client IO #1/INFO] [FML]: [Netty Local Client IO #1] Client side modded connection established
+[18:27:15] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:27:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Player390[local:E:9946b899] logged in with entity id 3108 at (161.91039400309512, 75.0, 82.47608742006327)
+[18:27:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player390 joined the game
+[18:27:15] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[18:27:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'adv_tst'/overworld
+[18:27:15] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 9 advancements
+[18:27:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'adv_tst'/future
+[18:27:19] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[18:27:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'adv_tst'/overworld
+[18:27:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'adv_tst'/future
+[18:27:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:27:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[18:27:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Player390 lost connection: Disconnected
+[18:27:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player390 left the game
+[18:27:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Stopping singleplayer server as player logged out
+[18:27:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[18:27:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'adv_tst'/overworld
+[18:27:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'adv_tst'/future
+[18:27:20] [Server thread/INFO] [FML]: Unloading dimension 0
+[18:27:20] [Server thread/INFO] [FML]: Unloading dimension 3
+[18:27:20] [Server thread/INFO] [FML]: Applying holder lookups
+[18:27:20] [Server thread/INFO] [FML]: Holder lookups applied
+[18:27:39] [main/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[18:27:39] [main/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[18:27:39] [main/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com

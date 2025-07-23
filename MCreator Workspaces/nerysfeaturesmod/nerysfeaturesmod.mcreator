@@ -1,8 +1,8 @@
 {
   "id_map": {
-    "ENTITY": 1,
+    "DIMENSION": 1,
     "GUI": 8,
-    "DIMENSION": 1
+    "ENTITY": 1
   },
   "mod_elements": [
     {
@@ -3277,6 +3277,22 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "Godhammeradv",
+      "type": "achievement",
+      "sortid": 368,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Nerysfeaturedmodadvstart",
+      "type": "achievement",
+      "sortid": 369,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -3295,9 +3311,9 @@
   "language_map": {
     "it_it": {
       "tile.basalt.name": "Basalto",
-      "item.purified_apple_sword.name": "Purified Apple Sword",
-      "tile.beacon_essence_slab.name": "Lastra di Essenza di Faro",
       "item.broken_starpower_gem.name": "Gemma di Potere Stellare rotta - Step 2",
+      "tile.beacon_essence_slab.name": "Lastra di Essenza di Faro",
+      "item.purified_apple_sword.name": "Purified Apple Sword",
       "tile.harder_obsidian.name": "Ossiadiana Più Dura",
       "tile.sakura_wood_slab.name": "Lastra di Assi di Sakura",
       "item.platinum_pickaxe.name": "Piccone di Platino",
@@ -3319,6 +3335,7 @@
       "item.appleingotarmorarmorlegs.name": "Pantaloncini di Mela",
       "item.grill.name": "Griglia",
       "item.purified_applebody.name": "Purified_apple Chestplate",
+      "advancements.nerysfeaturedmodadvstart.title": "NerY\u0027s Memes\u0026Features Mod",
       "item.platinumarmorhelmet.name": "Elmo di Platino",
       "item.diamond_nugget.name": "Pepita di Diamante",
       "item.power_sword.name": "Spada del Potere",
@@ -3368,6 +3385,7 @@
       "item.purified_apple_pickaxe.name": "Purified Apple Pickaxe",
       "tile.nether_leaves.name": "Nether Leaves",
       "item.dark_diamond.name": "Dark Diamond",
+      "advancements.godhammeradv.title": "Thor who?",
       "tile.strongest_weapon_resieder.name": "Strongest Weapon Resieder",
       "tile.future_fence.name": "Future Fence",
       "item.golden_sword.name": "Golden Sword",
@@ -3412,6 +3430,7 @@
       "tile.sakura_wood_stairs.name": "Sakura Wood Stairs",
       "tile.light_gray_cactus.name": "Light Gray Cactus",
       "item.light_sword_visible.name": "Light Sword - Visible",
+      "advancements.godhammeradv.descr": "Obtain the Hammer of the God of Destruction.",
       "tile.sakuraleaves.name": "Sakura Leaves",
       "advancements.powersworda.descr": "Getting started",
       "item.supremestarpower.name": "Supreme Star Power",
@@ -3442,6 +3461,7 @@
       "item.nice_disc.name": "Nice Music Disc",
       "item.platinumarmorbody.name": "Platinum Chestplate",
       "item.excalibur.name": "The Sacred Sword Excalibur",
+      "advancements.nerysfeaturedmodadvstart.descr": "The start of your adventure!",
       "advancements.darkdiamonds.descr": "Acquire Dark Diamonds",
       "item.sun_power_cluster.name": "Sun Power Cluster",
       "tile.hammer_incaver.name": "Hammer Incaver",
@@ -3462,9 +3482,9 @@
     },
     "en_us": {
       "tile.basalt.name": "Basalt",
-      "item.purified_apple_sword.name": "Purified Apple Sword",
-      "tile.beacon_essence_slab.name": "Beacon Essence Slab",
       "item.broken_starpower_gem.name": "Broken Starpower Gem - Step 2",
+      "tile.beacon_essence_slab.name": "Beacon Essence Slab",
+      "item.purified_apple_sword.name": "Purified Apple Sword",
       "tile.harder_obsidian.name": "Harder Obsidian",
       "tile.sakura_wood_slab.name": "Sakura Wood Slab",
       "item.platinum_pickaxe.name": "Platinum Pickaxe",
@@ -3486,6 +3506,7 @@
       "item.appleingotarmorarmorlegs.name": "Apple Leggings",
       "item.grill.name": "Grill",
       "item.purified_applebody.name": "Purified Apple Chestplate",
+      "advancements.nerysfeaturedmodadvstart.title": "NerY\u0027s Memes\u0026Features Mod",
       "item.platinumarmorhelmet.name": "Platinum Helmet",
       "item.diamond_nugget.name": "Diamond Nugget",
       "item.power_sword.name": "Power Sword",
@@ -3535,6 +3556,7 @@
       "item.purified_apple_pickaxe.name": "Purified Apple Pickaxe",
       "tile.nether_leaves.name": "Nether Leaves",
       "item.dark_diamond.name": "Dark Diamond",
+      "advancements.godhammeradv.title": "Thor who?",
       "tile.strongest_weapon_resieder.name": "Strongest Weapon Resieder",
       "tile.future_fence.name": "Future Fence",
       "item.golden_sword.name": "Golden Sword",
@@ -3547,7 +3569,7 @@
       "item.appleingotarmorarmorhelmet.name": "Apple Helmet",
       "tile.futuretreewood.name": "Future Tree Wood",
       "tile.nether_stem.name": "Nether Stem",
-      "advancements.excalibura.descr": "Find and obtain Excalibur",
+      "advancements.excalibura.descr": "Find and obtain Excalibur.",
       "item.lightarmorlegs.name": "Light Leggings",
       "item.very_dense_dark_cosmos_star.name": "Very Dense Dark Cosmos Star - Step 5",
       "item.apple_sword.name": "Apple Sword",
@@ -3579,8 +3601,9 @@
       "tile.sakura_wood_stairs.name": "Sakura Wood Stairs",
       "tile.light_gray_cactus.name": "Light Gray Cactus",
       "item.light_sword_visible.name": "Light Sword - Visible",
+      "advancements.godhammeradv.descr": "Obtain the Hammer of the God of Destruction.",
       "tile.sakuraleaves.name": "Sakura Leaves",
-      "advancements.powersworda.descr": "Getting started",
+      "advancements.powersworda.descr": "Getting started...",
       "item.supremestarpower.name": "Supreme Star Power",
       "tile.nether_fence.name": "Nether Fence",
       "item.star_container.name": "Star Container",
@@ -3609,7 +3632,8 @@
       "item.nice_disc.name": "Nice Music Disc",
       "item.platinumarmorbody.name": "Platinum Chestplate",
       "item.excalibur.name": "The Sacred Sword Excalibur",
-      "advancements.darkdiamonds.descr": "Acquire Dark Diamonds",
+      "advancements.nerysfeaturedmodadvstart.descr": "The start of your adventure!",
+      "advancements.darkdiamonds.descr": "Acquire Dark Diamonds.",
       "item.sun_power_cluster.name": "Sun Power Cluster",
       "tile.hammer_incaver.name": "Hammer Incaver",
       "advancements.powersworda.title": "Power Sword",
